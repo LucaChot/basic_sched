@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: basic-sched
+  namespace: basic-sched
+  labels:
+    component: scheduler
+    tier: control-plane
+    name: basic-sched
+spec:
+  selector:
+    matchLabels:
+      component: scheduler
+      tier: control-plane
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        component: scheduler
+        tier: control-plane
+        name: basic-sched
+    spec:
+      serviceAccountName: basic-sched
+      nodeSelector:
+        node-role.kubernetes.io/control-plane: ""
+      tolerations:
+      - key: "node-role.kubernetes.io/master"
+        operator: "Exists"
+        effect: NoSchedule
+      - key: "node-role.kubernetes.io/control-plane"
+        operator: "Exists"
+        effect: NoSchedule
+      containers:
+      - command:
+        - ./sched
+        name: basic-sched
+        resources:
+          requests:
+            cpu: 100m
+        image: lucachot/basic-sched:latest
+        imagePullPolicy: Always
+      restartPolicy: Always
