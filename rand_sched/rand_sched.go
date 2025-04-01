@@ -67,10 +67,14 @@ func Schedule() {
 		}, metav1.CreateOptions{})
 
         /* Creates a new event alerting the binding of the pod */
+        /*
+        TODO: Look at using the firstTimestamp and LastTimestamp to get an the
+        timeline of the different components
+        */
 		timestamp := time.Now().UTC()
 		clientset.CoreV1().Events(p.Namespace).Create(context.TODO(), &v1.Event{
-			Count:          1,
-			Message:        "binding pod to node",
+	 		Count:          1,
+            Message:        fmt.Sprintf("Successfully assigned %s/%s to %s", p.Namespace, p.Name, randomNode.Name),
 			Reason:         "Scheduled",
 			LastTimestamp:  metav1.NewTime(timestamp),
 			FirstTimestamp: metav1.NewTime(timestamp),

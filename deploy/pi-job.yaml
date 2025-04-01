@@ -1,0 +1,21 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: pi-2000
+  namespace: basic-sched
+spec:
+  completions: 10
+  parallelism: 10
+  template:
+    spec:
+      schedulerName: basic-sched
+      containers:
+      - name: pi
+        image: perl:5.34.0
+        command: ["perl",  "-Mbignum=bpi", "-wle", "print bpi(2000)"]
+        imagePullPolicy: IfNotPresent
+        resources:
+          requests:
+            cpu: "100m"
+      restartPolicy: Never
+  backoffLimit: 4
