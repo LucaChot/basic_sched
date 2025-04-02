@@ -44,6 +44,9 @@ func Schedule() {
 		if event.Type != "ADDED" {
 			continue
 		}
+
+        start := time.Now().UTC()
+
 		p := event.Object.(*v1.Pod)
 		log.WithFields(log.Fields{
 			"namespace": p.Namespace,
@@ -67,21 +70,16 @@ func Schedule() {
 		}, metav1.CreateOptions{})
 
         /* Creates a new event alerting the binding of the pod */
-        /*
-        TODO: Look at using the firstTimestamp and LastTimestamp to get an the
-        timeline of the different components
-        */
-		timestamp := time.Now().UTC()
-		clientset.CoreV1().Events(p.Namespace).Create(context.TODO(), &v1.Event{
-	 		Count:          1,
+		end := time.Now().UTC()
+        nanosecondsSpent := end.Sub(start).Nanoseconds()
+        _, err := clientset.CoreV1().Events(p.Namespace).Create(context.TODO(), &v1.Event{
+            Action:         "Binding",
             Message:        fmt.Sprintf("Successfully assigned %s/%s to %s", p.Namespace, p.Name, randomNode.Name),
 			Reason:         "Scheduled",
-			LastTimestamp:  metav1.NewTime(timestamp),
-			FirstTimestamp: metav1.NewTime(timestamp),
+            EventTime:      metav1.NewMicroTime(end),
 			Type:           "Normal",
-			Source: v1.EventSource{
-				Component: schedulerName,
-			},
+            ReportingController: schedulerName,
+            ReportingInstance: fmt.Sprintf("%s-dev-k8s-lc869-00", schedulerName),
 			InvolvedObject: v1.ObjectReference{
 				Kind:      "Pod",
 				Name:      p.Name,
@@ -90,9 +88,15 @@ func Schedule() {
 			},
 			ObjectMeta: metav1.ObjectMeta{
 				GenerateName: p.Name + "-",
+                Annotations: map[string]string{
+                    "scheduler/nanoseconds": fmt.Sprintf("%d", nanosecondsSpent),
+                },
 			},
 		}, metav1.CreateOptions{})
 
+		log.WithFields(log.Fields{
+			"err": err,
+		}).Debug("Created event")
 	}
 }
 
