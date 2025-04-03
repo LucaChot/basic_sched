@@ -1,0 +1,40 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: remote-sched
+  namespace: basic-sched
+  labels:
+    component: scheduler
+    tier: control-plane
+    name: remote-sched
+spec:
+  selector:
+    matchLabels:
+      component: scheduler
+      tier: control-plane
+      name: remote-sched
+  template:
+    metadata:
+      labels:
+        component: scheduler
+        tier: control-plane
+        name: remote-sched
+    spec:
+      serviceAccountName: remote-sched-account
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+            - matchExpressions:
+              - key: node-role.kubernetes.io/master
+                operator: DoesNotExist
+      containers:
+      - command:
+        - ./remote
+        name: remote-sched
+        resources:
+          requests:
+            cpu: 100m
+        image: lucachot/remote-sched:latest
+        imagePullPolicy: Always
+      restartPolicy: Always
