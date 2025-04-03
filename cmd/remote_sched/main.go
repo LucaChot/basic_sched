@@ -2,8 +2,8 @@ package main
 
 import (
 	"flag"
-	"github.com/LucaChot/basic_sched/rand_sched"
-	"time"
+
+	"github.com/LucaChot/basic_sched/dist_sched/remote"
 
 	log "github.com/sirupsen/logrus"
 )
@@ -15,16 +15,9 @@ func init() {
 	log.SetFormatter(&log.TextFormatter{
 		ForceColors: true,
 	})
-
 }
 
 func main() {
-
-	rand_sched.Schedule()
-
-	log.Debug("done")
-	for {
-		time.Sleep(10 * time.Second)
-	}
-
+	rmt := remote.New()
+    rmt.Schedule()
 }
