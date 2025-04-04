@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: central-sched
+  namespace: basic-sched
+  labels:
+    component: scheduler
+    tier: control-plane
+    name: central-sched
+spec:
+  selector:
+    matchLabels:
+      component: scheduler
+      tier: control-plane
+      name: central-sched
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        component: scheduler
+        tier: control-plane
+        name: central-sched
+    spec:
+      serviceAccountName: central-sched-account
+      nodeSelector:
+        node-role.kubernetes.io/control-plane: ""
+      tolerations:
+      - key: "node-role.kubernetes.io/master"
+        operator: "Exists"
+        effect: NoSchedule
+      - key: "node-role.kubernetes.io/control-plane"
+        operator: "Exists"
+        effect: NoSchedule
+      containers:
+      - command:
+        - ./central
+        name: central-sched
+        resources:
+          requests:
+            cpu: 100m
+        image: lucachot/central-sched:latest
+        imagePullPolicy: Always
+      restartPolicy: Always
