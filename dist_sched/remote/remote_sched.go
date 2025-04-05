@@ -9,6 +9,8 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	pb "github.com/LucaChot/basic_sched/dist_sched/message"
+    metrics "github.com/LucaChot/basic_sched/dist_sched/metrics"
+
 	v1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/client-go/kubernetes"
@@ -18,6 +20,8 @@ import (
 type RemoteScheduler struct {
     hostname string
     onNode *v1.Node
+    mc metrics.MetricCollector
+
     clientset   *kubernetes.Clientset
     ctlPlStub  pb.PodPlacementClient
 }
@@ -76,6 +80,8 @@ func New() *RemoteScheduler {
     rmt.SetClientset()
     rmt.SetHostname()
     rmt.SetOnNode()
+
+    rmt.mc = metrics.New()
 
     rmt.AsClient()
 
