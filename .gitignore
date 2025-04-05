@@ -1,5 +1,8 @@
 bin
 
+go.mod
+go.sum
+
 *.log
 scripts/env
 scripts/.ipynb_checkpoints
