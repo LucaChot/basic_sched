@@ -1,0 +1,500 @@
+2025/05/19 16:13:28.176309 created container informer
+2025/05/19 16:13:28.198322 (container) start watching function
+2025/05/19 16:13:28.203182 (container) received subscribe stream
+2025/05/19 16:13:28.279112 (metrics) cpu some: 3566.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.279196 (filter-metrics) cpu some: 3566.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.378712 (metrics) cpu some: 439.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.378827 (filter-metrics) cpu some: 3370.562500 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.478389 (metrics) cpu some: 836.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.478512 (filter-metrics) cpu some: 3212.152344 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.579689 (metrics) cpu some: 560.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.579838 (filter-metrics) cpu some: 3046.392822 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.679429 (metrics) cpu some: 4114.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.679529 (filter-metrics) cpu some: 3142.477468 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.778903 (metrics) cpu some: 1101.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.779042 (filter-metrics) cpu some: 3014.885126 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.878515 (metrics) cpu some: 434.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.878613 (filter-metrics) cpu some: 2853.579806 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.978769 (metrics) cpu some: 664.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:28.978882 (filter-metrics) cpu some: 2716.731068 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.079431 (metrics) cpu some: 5854.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.079533 (filter-metrics) cpu some: 2999.085272 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.178840 (metrics) cpu some: 593.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.178932 (filter-metrics) cpu some: 2848.704943 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.221766 (capacity) podCount = 0.000000
+2025/05/19 16:13:29.221862 (capacity) capacity: 1.2743 | cost: -1.0000
+2025/05/19 16:13:29.221881 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:29.279334 (metrics) cpu some: 1619.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.279501 (filter-metrics) cpu some: 2771.848384 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.379411 (metrics) cpu some: 767.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.379534 (filter-metrics) cpu some: 2646.545360 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.479323 (metrics) cpu some: 503.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1909.000000 full 1543.000000
+2025/05/19 16:13:29.479430 (filter-metrics) cpu some: 2512.573775 full 0.000000 memory some: 0.000000 full 0.000000 io some: 171.810000 full 138.870000
+2025/05/19 16:13:29.579355 (metrics) cpu some: 903.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.579461 (filter-metrics) cpu some: 2411.975414 full 0.000000 memory some: 0.000000 full 0.000000 io some: 161.071875 full 130.190625
+2025/05/19 16:13:29.679337 (metrics) cpu some: 555.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.679569 (filter-metrics) cpu some: 2295.914450 full 0.000000 memory some: 0.000000 full 0.000000 io some: 151.004883 full 122.053711
+2025/05/19 16:13:29.779323 (metrics) cpu some: 653.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.779438 (filter-metrics) cpu some: 2193.232297 full 0.000000 memory some: 0.000000 full 0.000000 io some: 141.567078 full 114.425354
+2025/05/19 16:13:29.879359 (metrics) cpu some: 336.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.879490 (filter-metrics) cpu some: 2077.155279 full 0.000000 memory some: 0.000000 full 0.000000 io some: 132.719135 full 107.273769
+2025/05/19 16:13:29.979172 (metrics) cpu some: 337.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:29.979257 (filter-metrics) cpu some: 1968.395574 full 0.000000 memory some: 0.000000 full 0.000000 io some: 124.424189 full 100.569159
+2025/05/19 16:13:30.079600 (metrics) cpu some: 1018.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:30.079690 (filter-metrics) cpu some: 1908.995850 full 0.000000 memory some: 0.000000 full 0.000000 io some: 116.647677 full 94.283586
+2025/05/19 16:13:30.179408 (metrics) cpu some: 196.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:30.179528 (filter-metrics) cpu some: 1801.933610 full 0.000000 memory some: 0.000000 full 0.000000 io some: 109.357198 full 88.390862
+2025/05/19 16:13:30.221866 (capacity) podCount = 0.000000
+2025/05/19 16:13:30.221973 (capacity) capacity: 1.2493 | cost: -1.0000
+2025/05/19 16:13:30.221995 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:30.278871 (metrics) cpu some: 691.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:30.279046 (filter-metrics) cpu some: 1732.500259 full 0.000000 memory some: 0.000000 full 0.000000 io some: 102.522373 full 82.866433
+2025/05/19 16:13:30.379636 (metrics) cpu some: 630.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:30.379771 (filter-metrics) cpu some: 1663.593993 full 0.000000 memory some: 0.000000 full 0.000000 io some: 96.114724 full 77.687281
+2025/05/19 16:13:30.478730 (metrics) cpu some: 909.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:30.479228 (filter-metrics) cpu some: 1616.431868 full 0.000000 memory some: 0.000000 full 0.000000 io some: 90.107554 full 72.831826
+2025/05/19 16:13:30.578678 (metrics) cpu some: 766.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:30.578743 (filter-metrics) cpu some: 1563.279877 full 0.000000 memory some: 0.000000 full 0.000000 io some: 84.475832 full 68.279837
+2025/05/19 16:13:30.679423 (metrics) cpu some: 3769.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:30.679528 (filter-metrics) cpu some: 1761.794688 full 0.000000 memory some: 0.000000 full 0.000000 io some: 79.196093 full 64.012347
+2025/05/19 16:13:30.778623 (metrics) cpu some: 523.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:30.778812 (filter-metrics) cpu some: 1684.370020 full 0.000000 memory some: 0.000000 full 0.000000 io some: 74.246337 full 60.011576
+2025/05/19 16:13:30.879349 (metrics) cpu some: 393.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:30.879472 (filter-metrics) cpu some: 1603.659394 full 0.000000 memory some: 0.000000 full 0.000000 io some: 69.605941 full 56.260852
+2025/05/19 16:13:30.979647 (metrics) cpu some: 494.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:30.979753 (filter-metrics) cpu some: 1534.305681 full 0.000000 memory some: 0.000000 full 0.000000 io some: 65.255569 full 52.744549
+2025/05/19 16:13:31.079611 (metrics) cpu some: 1194.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:31.079738 (filter-metrics) cpu some: 1513.036576 full 0.000000 memory some: 0.000000 full 0.000000 io some: 61.177096 full 49.448014
+2025/05/19 16:13:31.178809 (metrics) cpu some: 238.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:31.178905 (filter-metrics) cpu some: 1433.346790 full 0.000000 memory some: 0.000000 full 0.000000 io some: 57.353528 full 46.357514
+2025/05/19 16:13:31.221619 (capacity) podCount = 0.000000
+2025/05/19 16:13:31.221760 (capacity) capacity: 1.2250 | cost: -1.0000
+2025/05/19 16:13:31.221784 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:31.279208 (metrics) cpu some: 1105.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:31.279262 (filter-metrics) cpu some: 1412.825116 full 0.000000 memory some: 0.000000 full 0.000000 io some: 53.768932 full 43.460169
+2025/05/19 16:13:31.379263 (metrics) cpu some: 297.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:31.379348 (filter-metrics) cpu some: 1343.086046 full 0.000000 memory some: 0.000000 full 0.000000 io some: 50.408374 full 40.743908
+2025/05/19 16:13:31.479166 (metrics) cpu some: 542.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:31.479307 (filter-metrics) cpu some: 1293.018168 full 0.000000 memory some: 0.000000 full 0.000000 io some: 47.257851 full 38.197414
+2025/05/19 16:13:31.579666 (metrics) cpu some: 2264.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1839.000000 full 1510.000000
+2025/05/19 16:13:31.579763 (filter-metrics) cpu some: 1380.406533 full 0.000000 memory some: 0.000000 full 0.000000 io some: 208.514644 full 170.659647
+2025/05/19 16:13:31.679164 (metrics) cpu some: 488.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:31.679273 (filter-metrics) cpu some: 1324.631125 full 0.000000 memory some: 0.000000 full 0.000000 io some: 195.482479 full 159.993419
+2025/05/19 16:13:31.780116 (metrics) cpu some: 357.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:31.780219 (filter-metrics) cpu some: 1264.154180 full 0.000000 memory some: 0.000000 full 0.000000 io some: 183.264824 full 149.993830
+2025/05/19 16:13:31.879686 (metrics) cpu some: 1518.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:31.879824 (filter-metrics) cpu some: 1287.000303 full 0.000000 memory some: 0.000000 full 0.000000 io some: 171.810772 full 140.619216
+2025/05/19 16:13:31.979136 (metrics) cpu some: 430.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:31.979242 (filter-metrics) cpu some: 1233.437784 full 0.000000 memory some: 0.000000 full 0.000000 io some: 161.072599 full 131.830515
+2025/05/19 16:13:32.078481 (metrics) cpu some: 3107.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:32.078571 (filter-metrics) cpu some: 1402.058384 full 0.000000 memory some: 0.000000 full 0.000000 io some: 151.005562 full 123.591108
+2025/05/19 16:13:32.179034 (metrics) cpu some: 2859.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:32.179124 (filter-metrics) cpu some: 1533.183129 full 0.000000 memory some: 0.000000 full 0.000000 io some: 141.567714 full 115.866663
+2025/05/19 16:13:32.222092 (capacity) podCount = 0.000000
+2025/05/19 16:13:32.222217 (capacity) capacity: 1.2014 | cost: -1.0000
+2025/05/19 16:13:32.222249 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:32.279908 (metrics) cpu some: 2296.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:32.280100 (filter-metrics) cpu some: 1601.836648 full 0.000000 memory some: 0.000000 full 0.000000 io some: 132.719732 full 108.624997
+2025/05/19 16:13:32.378804 (metrics) cpu some: 681.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:32.378915 (filter-metrics) cpu some: 1544.284357 full 0.000000 memory some: 0.000000 full 0.000000 io some: 124.424749 full 101.835935
+2025/05/19 16:13:32.479169 (metrics) cpu some: 306.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:32.479277 (filter-metrics) cpu some: 1466.891585 full 0.000000 memory some: 0.000000 full 0.000000 io some: 116.648202 full 95.471189
+2025/05/19 16:13:32.578788 (metrics) cpu some: 5605.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 213.000000 full 213.000000
+2025/05/19 16:13:32.578867 (filter-metrics) cpu some: 1839.321342 full 0.000000 memory some: 0.000000 full 0.000000 io some: 125.319864 full 106.048782
+2025/05/19 16:13:32.678892 (metrics) cpu some: 1168.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:32.679143 (filter-metrics) cpu some: 1797.363758 full 0.000000 memory some: 0.000000 full 0.000000 io some: 117.487372 full 99.420733
+2025/05/19 16:13:32.779241 (metrics) cpu some: 735.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:32.779378 (filter-metrics) cpu some: 1730.966023 full 0.000000 memory some: 0.000000 full 0.000000 io some: 110.144412 full 93.206937
+2025/05/19 16:13:32.879424 (metrics) cpu some: 633.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:32.879543 (filter-metrics) cpu some: 1662.343147 full 0.000000 memory some: 0.000000 full 0.000000 io some: 103.260386 full 87.381504
+2025/05/19 16:13:32.979594 (metrics) cpu some: 857.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:32.979696 (filter-metrics) cpu some: 1612.009200 full 0.000000 memory some: 0.000000 full 0.000000 io some: 96.806612 full 81.920160
+2025/05/19 16:13:33.079061 (metrics) cpu some: 709.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:33.079165 (filter-metrics) cpu some: 1555.571125 full 0.000000 memory some: 0.000000 full 0.000000 io some: 90.756198 full 76.800150
+2025/05/19 16:13:33.179067 (metrics) cpu some: 1598.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:33.179170 (filter-metrics) cpu some: 1559.389724 full 0.000000 memory some: 0.000000 full 0.000000 io some: 85.083936 full 72.000140
+2025/05/19 16:13:33.221751 (capacity) podCount = 0.000000
+2025/05/19 16:13:33.221798 (capacity) capacity: 1.1785 | cost: -1.0000
+2025/05/19 16:13:33.221816 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:33.279393 (metrics) cpu some: 1214.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1992.000000 full 1809.000000
+2025/05/19 16:13:33.279451 (filter-metrics) cpu some: 1537.802866 full 0.000000 memory some: 0.000000 full 0.000000 io some: 256.706382 full 228.330128
+2025/05/19 16:13:33.380009 (metrics) cpu some: 577.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:33.380127 (filter-metrics) cpu some: 1477.752687 full 0.000000 memory some: 0.000000 full 0.000000 io some: 240.662233 full 214.059495
+2025/05/19 16:13:33.478564 (metrics) cpu some: 5315.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:33.478655 (filter-metrics) cpu some: 1823.104945 full 0.000000 memory some: 0.000000 full 0.000000 io some: 225.620843 full 200.680776
+2025/05/19 16:13:33.578922 (metrics) cpu some: 473.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1602.000000 full 1271.000000
+2025/05/19 16:13:33.579059 (filter-metrics) cpu some: 1738.723386 full 0.000000 memory some: 0.000000 full 0.000000 io some: 349.494967 full 297.009506
+2025/05/19 16:13:33.678806 (metrics) cpu some: 1623.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:33.678911 (filter-metrics) cpu some: 1731.490675 full 0.000000 memory some: 0.000000 full 0.000000 io some: 327.651532 full 278.446412
+2025/05/19 16:13:33.778614 (metrics) cpu some: 503.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:33.778691 (filter-metrics) cpu some: 1654.710007 full 0.000000 memory some: 0.000000 full 0.000000 io some: 307.173311 full 261.043511
+2025/05/19 16:13:33.879104 (metrics) cpu some: 710.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:33.879212 (filter-metrics) cpu some: 1595.665632 full 0.000000 memory some: 0.000000 full 0.000000 io some: 287.974979 full 244.728292
+2025/05/19 16:13:33.979493 (metrics) cpu some: 632.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:33.979597 (filter-metrics) cpu some: 1535.436530 full 0.000000 memory some: 0.000000 full 0.000000 io some: 269.976543 full 229.432774
+2025/05/19 16:13:34.079292 (metrics) cpu some: 1528.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:34.079366 (filter-metrics) cpu some: 1534.971747 full 0.000000 memory some: 0.000000 full 0.000000 io some: 253.103009 full 215.093225
+2025/05/19 16:13:34.179462 (metrics) cpu some: 2516.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:34.179596 (filter-metrics) cpu some: 1623.264290 full 0.000000 memory some: 0.000000 full 0.000000 io some: 237.284071 full 201.649899
+2025/05/19 16:13:34.221488 (capacity) podCount = 0.000000
+2025/05/19 16:13:34.221613 (capacity) capacity: 1.1562 | cost: -1.0000
+2025/05/19 16:13:34.221642 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:34.279004 (metrics) cpu some: 1232.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:34.279107 (filter-metrics) cpu some: 1598.810271 full 0.000000 memory some: 0.000000 full 0.000000 io some: 222.453817 full 189.046780
+2025/05/19 16:13:34.379025 (metrics) cpu some: 555.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:34.379103 (filter-metrics) cpu some: 1533.572130 full 0.000000 memory some: 0.000000 full 0.000000 io some: 208.550453 full 177.231356
+2025/05/19 16:13:34.479103 (metrics) cpu some: 647.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:34.479172 (filter-metrics) cpu some: 1478.161371 full 0.000000 memory some: 0.000000 full 0.000000 io some: 195.516050 full 166.154397
+2025/05/19 16:13:34.579032 (metrics) cpu some: 459.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:34.579104 (filter-metrics) cpu some: 1414.463786 full 0.000000 memory some: 0.000000 full 0.000000 io some: 183.296297 full 155.769747
+2025/05/19 16:13:34.679493 (metrics) cpu some: 1457.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:34.679584 (filter-metrics) cpu some: 1418.292045 full 0.000000 memory some: 0.000000 full 0.000000 io some: 171.840278 full 146.034138
+2025/05/19 16:13:34.779140 (metrics) cpu some: 791.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:34.779275 (filter-metrics) cpu some: 1379.086292 full 0.000000 memory some: 0.000000 full 0.000000 io some: 161.100261 full 136.907004
+2025/05/19 16:13:34.879074 (metrics) cpu some: 431.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:34.879155 (filter-metrics) cpu some: 1319.830899 full 0.000000 memory some: 0.000000 full 0.000000 io some: 151.031494 full 128.350316
+2025/05/19 16:13:34.978529 (metrics) cpu some: 515.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:34.978651 (filter-metrics) cpu some: 1269.528968 full 0.000000 memory some: 0.000000 full 0.000000 io some: 141.592026 full 120.328422
+2025/05/19 16:13:35.079305 (metrics) cpu some: 709.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:35.079401 (filter-metrics) cpu some: 1234.495907 full 0.000000 memory some: 0.000000 full 0.000000 io some: 132.742524 full 112.807895
+2025/05/19 16:13:35.179235 (metrics) cpu some: 1554.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:35.179335 (filter-metrics) cpu some: 1263.251276 full 0.000000 memory some: 0.000000 full 0.000000 io some: 124.446117 full 105.757402
+2025/05/19 16:13:35.222238 (capacity) podCount = 0.000000
+2025/05/19 16:13:35.222364 (capacity) capacity: 1.1345 | cost: -1.0000
+2025/05/19 16:13:35.222401 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:35.286391 (metrics) cpu some: 1294.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:35.286501 (filter-metrics) cpu some: 1266.018661 full 0.000000 memory some: 0.000000 full 0.000000 io some: 116.668234 full 99.147564
+2025/05/19 16:13:35.378406 (metrics) cpu some: 2582.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:35.378520 (filter-metrics) cpu some: 1384.456981 full 0.000000 memory some: 0.000000 full 0.000000 io some: 109.376470 full 92.950841
+2025/05/19 16:13:35.479542 (metrics) cpu some: 661.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:35.479711 (filter-metrics) cpu some: 1339.240920 full 0.000000 memory some: 0.000000 full 0.000000 io some: 102.540440 full 87.141414
+2025/05/19 16:13:35.579612 (metrics) cpu some: 1202.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:35.579704 (filter-metrics) cpu some: 1330.663362 full 0.000000 memory some: 0.000000 full 0.000000 io some: 96.131663 full 81.695075
+2025/05/19 16:13:35.679452 (metrics) cpu some: 756.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 543.000000 full 442.000000
+2025/05/19 16:13:35.679574 (filter-metrics) cpu some: 1294.746902 full 0.000000 memory some: 0.000000 full 0.000000 io some: 136.349813 full 114.122519
+2025/05/19 16:13:35.779152 (metrics) cpu some: 2388.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:35.779243 (filter-metrics) cpu some: 1393.139681 full 0.000000 memory some: 0.000000 full 0.000000 io some: 127.827950 full 106.989861
+2025/05/19 16:13:35.879526 (metrics) cpu some: 248.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:35.879640 (filter-metrics) cpu some: 1321.568451 full 0.000000 memory some: 0.000000 full 0.000000 io some: 119.838703 full 100.302995
+2025/05/19 16:13:35.979103 (metrics) cpu some: 871.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:35.979256 (filter-metrics) cpu some: 1293.407923 full 0.000000 memory some: 0.000000 full 0.000000 io some: 112.348784 full 94.034058
+2025/05/19 16:13:36.079633 (metrics) cpu some: 656.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:36.079765 (filter-metrics) cpu some: 1253.569928 full 0.000000 memory some: 0.000000 full 0.000000 io some: 105.326985 full 88.156929
+2025/05/19 16:13:36.179595 (metrics) cpu some: 1872.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:36.179736 (filter-metrics) cpu some: 1309.228634 full 0.000000 memory some: 0.000000 full 0.000000 io some: 98.744048 full 82.647121
+2025/05/19 16:13:36.221570 (capacity) podCount = 0.000000
+2025/05/19 16:13:36.221659 (capacity) capacity: 1.1134 | cost: -1.0000
+2025/05/19 16:13:36.221678 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:36.279128 (metrics) cpu some: 1096.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:36.279208 (filter-metrics) cpu some: 1295.901845 full 0.000000 memory some: 0.000000 full 0.000000 io some: 92.572545 full 77.481676
+2025/05/19 16:13:36.378766 (metrics) cpu some: 388.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:36.378877 (filter-metrics) cpu some: 1239.157979 full 0.000000 memory some: 0.000000 full 0.000000 io some: 86.786761 full 72.639071
+2025/05/19 16:13:36.478889 (metrics) cpu some: 854.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:36.479203 (filter-metrics) cpu some: 1215.085606 full 0.000000 memory some: 0.000000 full 0.000000 io some: 81.362589 full 68.099129
+2025/05/19 16:13:36.578229 (metrics) cpu some: 734.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:36.578293 (filter-metrics) cpu some: 1185.017755 full 0.000000 memory some: 0.000000 full 0.000000 io some: 76.277427 full 63.842934
+2025/05/19 16:13:36.679236 (metrics) cpu some: 1041.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:36.679307 (filter-metrics) cpu some: 1176.016646 full 0.000000 memory some: 0.000000 full 0.000000 io some: 71.510088 full 59.852750
+2025/05/19 16:13:36.779338 (metrics) cpu some: 841.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:36.779436 (filter-metrics) cpu some: 1155.078105 full 0.000000 memory some: 0.000000 full 0.000000 io some: 67.040707 full 56.111953
+2025/05/19 16:13:36.879431 (metrics) cpu some: 438.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:36.879542 (filter-metrics) cpu some: 1110.260724 full 0.000000 memory some: 0.000000 full 0.000000 io some: 62.850663 full 52.604956
+2025/05/19 16:13:36.978364 (metrics) cpu some: 2018.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:36.978455 (filter-metrics) cpu some: 1191.957258 full 0.000000 memory some: 0.000000 full 0.000000 io some: 58.922497 full 49.317147
+2025/05/19 16:13:37.079263 (metrics) cpu some: 512.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:37.079362 (filter-metrics) cpu some: 1149.459930 full 0.000000 memory some: 0.000000 full 0.000000 io some: 55.239841 full 46.234825
+2025/05/19 16:13:37.179433 (metrics) cpu some: 3556.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:37.179549 (filter-metrics) cpu some: 1366.048536 full 0.000000 memory some: 0.000000 full 0.000000 io some: 51.787351 full 43.345148
+2025/05/19 16:13:37.221421 (capacity) podCount = 0.000000
+2025/05/19 16:13:37.221513 (capacity) capacity: 1.0929 | cost: -1.0000
+2025/05/19 16:13:37.221542 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:37.278456 (metrics) cpu some: 1635.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:37.278564 (filter-metrics) cpu some: 1390.254168 full 0.000000 memory some: 0.000000 full 0.000000 io some: 48.550641 full 40.636077
+2025/05/19 16:13:37.379563 (metrics) cpu some: 979.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:37.379688 (filter-metrics) cpu some: 1364.550782 full 0.000000 memory some: 0.000000 full 0.000000 io some: 45.516226 full 38.096322
+2025/05/19 16:13:37.479501 (metrics) cpu some: 407.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:37.479639 (filter-metrics) cpu some: 1304.703858 full 0.000000 memory some: 0.000000 full 0.000000 io some: 42.671462 full 35.715302
+2025/05/19 16:13:37.579372 (metrics) cpu some: 587.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:37.579474 (filter-metrics) cpu some: 1259.847367 full 0.000000 memory some: 0.000000 full 0.000000 io some: 40.004496 full 33.483095
+2025/05/19 16:13:37.679489 (metrics) cpu some: 729.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1893.000000 full 1341.000000
+2025/05/19 16:13:37.679630 (filter-metrics) cpu some: 1226.669407 full 0.000000 memory some: 0.000000 full 0.000000 io some: 206.774091 full 151.159617
+2025/05/19 16:13:37.779429 (metrics) cpu some: 536.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:37.779556 (filter-metrics) cpu some: 1183.502569 full 0.000000 memory some: 0.000000 full 0.000000 io some: 193.850710 full 141.712141
+2025/05/19 16:13:37.879060 (metrics) cpu some: 213.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:37.879183 (filter-metrics) cpu some: 1122.846158 full 0.000000 memory some: 0.000000 full 0.000000 io some: 181.735041 full 132.855132
+2025/05/19 16:13:37.980178 (metrics) cpu some: 640.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:37.980291 (filter-metrics) cpu some: 1092.668273 full 0.000000 memory some: 0.000000 full 0.000000 io some: 170.376601 full 124.551686
+2025/05/19 16:13:38.079722 (metrics) cpu some: 510.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:38.079858 (filter-metrics) cpu some: 1056.251506 full 0.000000 memory some: 0.000000 full 0.000000 io some: 159.728063 full 116.767206
+2025/05/19 16:13:38.179828 (metrics) cpu some: 1289.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:38.180024 (filter-metrics) cpu some: 1077.198871 full 0.000000 memory some: 0.000000 full 0.000000 io some: 149.745059 full 109.469255
+2025/05/19 16:13:38.221886 (capacity) podCount = 0.000000
+2025/05/19 16:13:38.222045 (capacity) capacity: 1.0729 | cost: -1.0000
+2025/05/19 16:13:38.222067 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:38.278510 (metrics) cpu some: 1323.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1549.000000 full 1372.000000
+2025/05/19 16:13:38.278590 (filter-metrics) cpu some: 1099.320972 full 0.000000 memory some: 0.000000 full 0.000000 io some: 275.678004 full 223.097022
+2025/05/19 16:13:38.378841 (metrics) cpu some: 259.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:38.379031 (filter-metrics) cpu some: 1046.800912 full 0.000000 memory some: 0.000000 full 0.000000 io some: 258.448129 full 209.153459
+2025/05/19 16:13:38.479128 (metrics) cpu some: 235.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 19717.000000 full 19333.000000
+2025/05/19 16:13:38.479265 (filter-metrics) cpu some: 996.063355 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2009.717797 full 1930.299647
+2025/05/19 16:13:38.579255 (metrics) cpu some: 549.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:38.579386 (filter-metrics) cpu some: 968.121895 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1884.110435 full 1809.655919
+2025/05/19 16:13:38.678674 (metrics) cpu some: 1819.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:38.678821 (filter-metrics) cpu some: 1044.700924 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1766.353533 full 1696.552424
+2025/05/19 16:13:38.779423 (metrics) cpu some: 361.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:38.779522 (filter-metrics) cpu some: 1001.969617 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1655.956437 full 1590.517898
+2025/05/19 16:13:38.879596 (metrics) cpu some: 388.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:38.879733 (filter-metrics) cpu some: 963.596516 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1552.459160 full 1491.110529
+2025/05/19 16:13:38.979066 (metrics) cpu some: 483.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:38.979189 (filter-metrics) cpu some: 933.559233 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1455.430462 full 1397.916121
+2025/05/19 16:13:39.079604 (metrics) cpu some: 365.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:39.079720 (filter-metrics) cpu some: 898.024281 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1364.466058 full 1310.546364
+2025/05/19 16:13:39.179472 (metrics) cpu some: 1612.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:39.179584 (filter-metrics) cpu some: 962.282096 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1279.186930 full 1228.637216
+2025/05/19 16:13:39.221799 (capacity) podCount = 0.000000
+2025/05/19 16:13:39.221901 (capacity) capacity: 1.0534 | cost: -1.0000
+2025/05/19 16:13:39.221916 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:39.279573 (metrics) cpu some: 917.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:39.279699 (filter-metrics) cpu some: 959.451965 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1199.237746 full 1151.847390
+2025/05/19 16:13:39.379738 (metrics) cpu some: 475.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:39.379852 (filter-metrics) cpu some: 929.173717 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1124.285387 full 1079.856928
+2025/05/19 16:13:39.479652 (metrics) cpu some: 547.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:39.479797 (filter-metrics) cpu some: 905.287860 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1054.017551 full 1012.365870
+2025/05/19 16:13:39.578756 (metrics) cpu some: 626.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:39.578837 (filter-metrics) cpu some: 887.832369 full 0.000000 memory some: 0.000000 full 0.000000 io some: 988.141454 full 949.093003
+2025/05/19 16:13:39.678639 (metrics) cpu some: 906.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:39.678731 (filter-metrics) cpu some: 889.467455 full 0.000000 memory some: 0.000000 full 0.000000 io some: 926.382613 full 889.774690
+2025/05/19 16:13:39.778596 (metrics) cpu some: 205.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2602.000000 full 2110.000000
+2025/05/19 16:13:39.778691 (filter-metrics) cpu some: 846.688239 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1077.188178 full 999.594968
+2025/05/19 16:13:39.878578 (metrics) cpu some: 410.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:39.878667 (filter-metrics) cpu some: 819.395225 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1009.863917 full 937.120283
+2025/05/19 16:13:39.979296 (metrics) cpu some: 432.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:39.979417 (filter-metrics) cpu some: 795.183023 full 0.000000 memory some: 0.000000 full 0.000000 io some: 946.747422 full 878.550265
+2025/05/19 16:13:40.079145 (metrics) cpu some: 799.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:40.079308 (filter-metrics) cpu some: 795.526551 full 0.000000 memory some: 0.000000 full 0.000000 io some: 887.575708 full 823.640874
+2025/05/19 16:13:40.178879 (metrics) cpu some: 1710.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:40.179066 (filter-metrics) cpu some: 877.829161 full 0.000000 memory some: 0.000000 full 0.000000 io some: 832.102226 full 772.163319
+2025/05/19 16:13:40.222367 (capacity) podCount = 0.000000
+2025/05/19 16:13:40.222461 (capacity) capacity: 1.0344 | cost: -1.0000
+2025/05/19 16:13:40.222479 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:40.278856 (metrics) cpu some: 957.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:40.279023 (filter-metrics) cpu some: 884.954537 full 0.000000 memory some: 0.000000 full 0.000000 io some: 780.095837 full 723.903111
+2025/05/19 16:13:40.379209 (metrics) cpu some: 363.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:40.379319 (filter-metrics) cpu some: 852.332378 full 0.000000 memory some: 0.000000 full 0.000000 io some: 731.339847 full 678.659167
+2025/05/19 16:13:40.479170 (metrics) cpu some: 368.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:40.479305 (filter-metrics) cpu some: 822.061605 full 0.000000 memory some: 0.000000 full 0.000000 io some: 685.631107 full 636.242969
+2025/05/19 16:13:40.579291 (metrics) cpu some: 430.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:40.579383 (filter-metrics) cpu some: 797.557754 full 0.000000 memory some: 0.000000 full 0.000000 io some: 642.779163 full 596.477784
+2025/05/19 16:13:40.678827 (metrics) cpu some: 1495.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:40.678905 (filter-metrics) cpu some: 860.327556 full 0.000000 memory some: 0.000000 full 0.000000 io some: 602.605465 full 559.197922
+2025/05/19 16:13:40.778654 (metrics) cpu some: 1919.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:40.778774 (filter-metrics) cpu some: 955.608076 full 0.000000 memory some: 0.000000 full 0.000000 io some: 564.942623 full 524.248052
+2025/05/19 16:13:40.878259 (metrics) cpu some: 349.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:40.878384 (filter-metrics) cpu some: 917.695072 full 0.000000 memory some: 0.000000 full 0.000000 io some: 529.633709 full 491.482549
+2025/05/19 16:13:40.979209 (metrics) cpu some: 546.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:40.979337 (filter-metrics) cpu some: 894.464130 full 0.000000 memory some: 0.000000 full 0.000000 io some: 496.531603 full 460.764889
+2025/05/19 16:13:41.079128 (metrics) cpu some: 347.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:41.079228 (filter-metrics) cpu some: 860.247622 full 0.000000 memory some: 0.000000 full 0.000000 io some: 465.498377 full 431.967084
+2025/05/19 16:13:41.179153 (metrics) cpu some: 1818.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:41.179260 (filter-metrics) cpu some: 946.445336 full 0.000000 memory some: 0.000000 full 0.000000 io some: 436.404729 full 404.969141
+2025/05/19 16:13:41.222244 (capacity) podCount = 0.000000
+2025/05/19 16:13:41.222447 (capacity) capacity: 1.0159 | cost: -1.0000
+2025/05/19 16:13:41.222478 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:41.279150 (metrics) cpu some: 833.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:41.279214 (filter-metrics) cpu some: 939.355002 full 0.000000 memory some: 0.000000 full 0.000000 io some: 409.129433 full 379.658570
+2025/05/19 16:13:41.379489 (metrics) cpu some: 403.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:41.379579 (filter-metrics) cpu some: 905.832814 full 0.000000 memory some: 0.000000 full 0.000000 io some: 383.558844 full 355.929909
+2025/05/19 16:13:41.478687 (metrics) cpu some: 373.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:41.478800 (filter-metrics) cpu some: 872.530764 full 0.000000 memory some: 0.000000 full 0.000000 io some: 359.586416 full 333.684290
+2025/05/19 16:13:41.578361 (metrics) cpu some: 324.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:41.578496 (filter-metrics) cpu some: 838.247591 full 0.000000 memory some: 0.000000 full 0.000000 io some: 337.112265 full 312.829022
+2025/05/19 16:13:41.678618 (metrics) cpu some: 399.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:41.678704 (filter-metrics) cpu some: 810.794616 full 0.000000 memory some: 0.000000 full 0.000000 io some: 316.042748 full 293.277208
+2025/05/19 16:13:41.779698 (metrics) cpu some: 832.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1630.000000 full 1288.000000
+2025/05/19 16:13:41.779811 (filter-metrics) cpu some: 812.703101 full 0.000000 memory some: 0.000000 full 0.000000 io some: 434.298901 full 382.802259
+2025/05/19 16:13:41.878722 (metrics) cpu some: 449.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:41.878857 (filter-metrics) cpu some: 789.971657 full 0.000000 memory some: 0.000000 full 0.000000 io some: 407.155220 full 358.877118
+2025/05/19 16:13:41.979717 (metrics) cpu some: 700.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:41.979880 (filter-metrics) cpu some: 784.348429 full 0.000000 memory some: 0.000000 full 0.000000 io some: 381.708019 full 336.447298
+2025/05/19 16:13:42.078852 (metrics) cpu some: 1292.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:42.079053 (filter-metrics) cpu some: 830.037070 full 0.000000 memory some: 0.000000 full 0.000000 io some: 357.851267 full 315.419342
+2025/05/19 16:13:42.178631 (metrics) cpu some: 2670.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:42.178702 (filter-metrics) cpu some: 995.633734 full 0.000000 memory some: 0.000000 full 0.000000 io some: 335.485563 full 295.705633
+2025/05/19 16:13:42.222402 (capacity) podCount = 0.000000
+2025/05/19 16:13:42.222505 (capacity) capacity: 0.9978 | cost: -1.0000
+2025/05/19 16:13:42.222525 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:42.279089 (metrics) cpu some: 1551.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:42.279193 (filter-metrics) cpu some: 1045.616698 full 0.000000 memory some: 0.000000 full 0.000000 io some: 314.517715 full 277.224031
+2025/05/19 16:13:42.379557 (metrics) cpu some: 646.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:42.379666 (filter-metrics) cpu some: 1020.640654 full 0.000000 memory some: 0.000000 full 0.000000 io some: 294.860358 full 259.897529
+2025/05/19 16:13:42.479618 (metrics) cpu some: 385.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:42.479749 (filter-metrics) cpu some: 980.913113 full 0.000000 memory some: 0.000000 full 0.000000 io some: 276.431586 full 243.653933
+2025/05/19 16:13:42.579446 (metrics) cpu some: 464.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:42.579556 (filter-metrics) cpu some: 948.606044 full 0.000000 memory some: 0.000000 full 0.000000 io some: 259.154612 full 228.425563
+2025/05/19 16:13:42.679169 (metrics) cpu some: 1321.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:42.679244 (filter-metrics) cpu some: 982.121500 full 0.000000 memory some: 0.000000 full 0.000000 io some: 242.957448 full 214.148965
+2025/05/19 16:13:42.779461 (metrics) cpu some: 822.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:42.779598 (filter-metrics) cpu some: 972.113906 full 0.000000 memory some: 0.000000 full 0.000000 io some: 227.772608 full 200.764655
+2025/05/19 16:13:42.879489 (metrics) cpu some: 700.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:42.879623 (filter-metrics) cpu some: 955.106787 full 0.000000 memory some: 0.000000 full 0.000000 io some: 213.536820 full 188.216864
+2025/05/19 16:13:42.979123 (metrics) cpu some: 671.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:42.979222 (filter-metrics) cpu some: 937.350113 full 0.000000 memory some: 0.000000 full 0.000000 io some: 200.190769 full 176.453310
+2025/05/19 16:13:43.078897 (metrics) cpu some: 680.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:43.079098 (filter-metrics) cpu some: 921.265731 full 0.000000 memory some: 0.000000 full 0.000000 io some: 187.678846 full 165.424978
+2025/05/19 16:13:43.178849 (metrics) cpu some: 1387.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:43.179076 (filter-metrics) cpu some: 963.181815 full 0.000000 memory some: 0.000000 full 0.000000 io some: 175.948918 full 155.085917
+2025/05/19 16:13:43.221549 (capacity) podCount = 0.000000
+2025/05/19 16:13:43.221716 (capacity) capacity: 0.9801 | cost: -1.0000
+2025/05/19 16:13:43.221741 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:43.278684 (metrics) cpu some: 1037.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:43.278780 (filter-metrics) cpu some: 969.825452 full 0.000000 memory some: 0.000000 full 0.000000 io some: 164.952110 full 145.393047
+2025/05/19 16:13:43.379080 (metrics) cpu some: 1579.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 774.000000 full 756.000000
+2025/05/19 16:13:43.379165 (filter-metrics) cpu some: 1024.651161 full 0.000000 memory some: 0.000000 full 0.000000 io some: 219.766421 full 200.347673
+2025/05/19 16:13:43.478781 (metrics) cpu some: 4240.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:43.478893 (filter-metrics) cpu some: 1314.032556 full 0.000000 memory some: 0.000000 full 0.000000 io some: 206.031019 full 187.825943
+2025/05/19 16:13:43.578687 (metrics) cpu some: 1311.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:43.578767 (filter-metrics) cpu some: 1313.843022 full 0.000000 memory some: 0.000000 full 0.000000 io some: 193.154081 full 176.086822
+2025/05/19 16:13:43.678878 (metrics) cpu some: 318.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:43.678997 (filter-metrics) cpu some: 1251.602833 full 0.000000 memory some: 0.000000 full 0.000000 io some: 181.081950 full 165.081395
+2025/05/19 16:13:43.778918 (metrics) cpu some: 550.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:43.779008 (filter-metrics) cpu some: 1207.752656 full 0.000000 memory some: 0.000000 full 0.000000 io some: 169.764329 full 154.763808
+2025/05/19 16:13:43.878607 (metrics) cpu some: 535.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2275.000000 full 1929.000000
+2025/05/19 16:13:43.878695 (filter-metrics) cpu some: 1165.705615 full 0.000000 memory some: 0.000000 full 0.000000 io some: 359.235539 full 314.445065
+2025/05/19 16:13:43.979292 (metrics) cpu some: 780.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:43.979375 (filter-metrics) cpu some: 1141.599014 full 0.000000 memory some: 0.000000 full 0.000000 io some: 336.783318 full 294.792249
+2025/05/19 16:13:44.079037 (metrics) cpu some: 1400.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:44.079101 (filter-metrics) cpu some: 1164.855103 full 0.000000 memory some: 0.000000 full 0.000000 io some: 315.734360 full 276.367733
+2025/05/19 16:13:44.179136 (metrics) cpu some: 2133.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:44.179232 (filter-metrics) cpu some: 1251.988143 full 0.000000 memory some: 0.000000 full 0.000000 io some: 296.000963 full 259.094750
+2025/05/19 16:13:44.221876 (capacity) podCount = 0.000000
+2025/05/19 16:13:44.222035 (capacity) capacity: 0.9629 | cost: -1.0000
+2025/05/19 16:13:44.222054 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:44.279474 (metrics) cpu some: 1544.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:44.279567 (filter-metrics) cpu some: 1278.269210 full 0.000000 memory some: 0.000000 full 0.000000 io some: 277.500903 full 242.901328
+2025/05/19 16:13:44.379624 (metrics) cpu some: 331.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:44.379748 (filter-metrics) cpu some: 1219.064885 full 0.000000 memory some: 0.000000 full 0.000000 io some: 260.157096 full 227.719995
+2025/05/19 16:13:44.479523 (metrics) cpu some: 689.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:44.479636 (filter-metrics) cpu some: 1185.935829 full 0.000000 memory some: 0.000000 full 0.000000 io some: 243.897278 full 213.487495
+2025/05/19 16:13:44.579021 (metrics) cpu some: 464.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:44.579107 (filter-metrics) cpu some: 1140.814840 full 0.000000 memory some: 0.000000 full 0.000000 io some: 228.653698 full 200.144527
+2025/05/19 16:13:44.678882 (metrics) cpu some: 1898.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:44.679175 (filter-metrics) cpu some: 1208.961505 full 0.000000 memory some: 0.000000 full 0.000000 io some: 214.362842 full 187.635494
+2025/05/19 16:13:44.778838 (metrics) cpu some: 640.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:44.779056 (filter-metrics) cpu some: 1173.401411 full 0.000000 memory some: 0.000000 full 0.000000 io some: 200.965164 full 175.908276
+2025/05/19 16:13:44.878918 (metrics) cpu some: 832.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:44.879142 (filter-metrics) cpu some: 1152.063822 full 0.000000 memory some: 0.000000 full 0.000000 io some: 188.404841 full 164.914008
+2025/05/19 16:13:44.979134 (metrics) cpu some: 540.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:44.979222 (filter-metrics) cpu some: 1113.809833 full 0.000000 memory some: 0.000000 full 0.000000 io some: 176.629539 full 154.606883
+2025/05/19 16:13:45.078485 (metrics) cpu some: 460.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:45.078591 (filter-metrics) cpu some: 1072.946719 full 0.000000 memory some: 0.000000 full 0.000000 io some: 165.590193 full 144.943953
+2025/05/19 16:13:45.180099 (metrics) cpu some: 1187.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:45.180201 (filter-metrics) cpu some: 1083.211514 full 0.000000 memory some: 0.000000 full 0.000000 io some: 155.240806 full 135.884956
+2025/05/19 16:13:45.222299 (capacity) podCount = 0.000000
+2025/05/19 16:13:45.222424 (capacity) capacity: 0.9461 | cost: -1.0000
+2025/05/19 16:13:45.222452 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:45.278718 (metrics) cpu some: 1569.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:45.278788 (filter-metrics) cpu some: 1126.932478 full 0.000000 memory some: 0.000000 full 0.000000 io some: 145.538255 full 127.392146
+2025/05/19 16:13:45.378602 (metrics) cpu some: 134.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:45.378700 (filter-metrics) cpu some: 1064.874198 full 0.000000 memory some: 0.000000 full 0.000000 io some: 136.442114 full 119.430137
+2025/05/19 16:13:45.479329 (metrics) cpu some: 160.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:45.479431 (filter-metrics) cpu some: 1008.319561 full 0.000000 memory some: 0.000000 full 0.000000 io some: 127.914482 full 111.965753
+2025/05/19 16:13:45.579234 (metrics) cpu some: 385.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:45.579320 (filter-metrics) cpu some: 969.362088 full 0.000000 memory some: 0.000000 full 0.000000 io some: 119.919827 full 104.967894
+2025/05/19 16:13:45.679182 (metrics) cpu some: 172.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:45.679279 (filter-metrics) cpu some: 919.526958 full 0.000000 memory some: 0.000000 full 0.000000 io some: 112.424838 full 98.407400
+2025/05/19 16:13:45.778696 (metrics) cpu some: 1861.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:45.778786 (filter-metrics) cpu some: 1004.259531 full 0.000000 memory some: 0.000000 full 0.000000 io some: 105.398285 full 92.256938
+2025/05/19 16:13:45.878981 (metrics) cpu some: 1934.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 498.000000 full 420.000000
+2025/05/19 16:13:45.879077 (filter-metrics) cpu some: 1087.936174 full 0.000000 memory some: 0.000000 full 0.000000 io some: 140.732440 full 121.753813
+2025/05/19 16:13:45.978554 (metrics) cpu some: 877.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:45.978648 (filter-metrics) cpu some: 1074.752663 full 0.000000 memory some: 0.000000 full 0.000000 io some: 131.936662 full 114.144200
+2025/05/19 16:13:46.078566 (metrics) cpu some: 481.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:46.078645 (filter-metrics) cpu some: 1037.643121 full 0.000000 memory some: 0.000000 full 0.000000 io some: 123.690621 full 107.010188
+2025/05/19 16:13:46.179210 (metrics) cpu some: 224.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:46.179336 (filter-metrics) cpu some: 986.790426 full 0.000000 memory some: 0.000000 full 0.000000 io some: 115.959957 full 100.322051
+2025/05/19 16:13:46.221453 (capacity) podCount = 0.000000
+2025/05/19 16:13:46.221624 (capacity) capacity: 0.9297 | cost: -1.0000
+2025/05/19 16:13:46.221643 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:46.279451 (metrics) cpu some: 2595.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:46.279527 (filter-metrics) cpu some: 1131.529288 full 0.000000 memory some: 0.000000 full 0.000000 io some: 108.712460 full 94.051923
+2025/05/19 16:13:46.380168 (metrics) cpu some: 685.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:46.380299 (filter-metrics) cpu some: 1103.621207 full 0.000000 memory some: 0.000000 full 0.000000 io some: 101.917931 full 88.173677
+2025/05/19 16:13:46.479089 (metrics) cpu some: 867.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:46.479230 (filter-metrics) cpu some: 1088.832382 full 0.000000 memory some: 0.000000 full 0.000000 io some: 95.548060 full 82.662823
+2025/05/19 16:13:46.579309 (metrics) cpu some: 575.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:46.579410 (filter-metrics) cpu some: 1056.717858 full 0.000000 memory some: 0.000000 full 0.000000 io some: 89.576307 full 77.496396
+2025/05/19 16:13:46.679531 (metrics) cpu some: 833.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:46.679658 (filter-metrics) cpu some: 1042.735492 full 0.000000 memory some: 0.000000 full 0.000000 io some: 83.977787 full 72.652871
+2025/05/19 16:13:46.779275 (metrics) cpu some: 481.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:46.779389 (filter-metrics) cpu some: 1007.627024 full 0.000000 memory some: 0.000000 full 0.000000 io some: 78.729176 full 68.112067
+2025/05/19 16:13:46.878866 (metrics) cpu some: 554.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:46.879005 (filter-metrics) cpu some: 979.275335 full 0.000000 memory some: 0.000000 full 0.000000 io some: 73.808602 full 63.855063
+2025/05/19 16:13:46.979097 (metrics) cpu some: 2045.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:46.979202 (filter-metrics) cpu some: 1075.190555 full 0.000000 memory some: 0.000000 full 0.000000 io some: 69.195565 full 59.864121
+2025/05/19 16:13:47.078756 (metrics) cpu some: 262.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:47.078893 (filter-metrics) cpu some: 1024.366145 full 0.000000 memory some: 0.000000 full 0.000000 io some: 64.870842 full 56.122614
+2025/05/19 16:13:47.179202 (metrics) cpu some: 1382.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:47.179324 (filter-metrics) cpu some: 1056.553192 full 0.000000 memory some: 0.000000 full 0.000000 io some: 60.816414 full 52.614950
+2025/05/19 16:13:47.222513 (capacity) podCount = 0.000000
+2025/05/19 16:13:47.222628 (capacity) capacity: 0.9137 | cost: -1.0000
+2025/05/19 16:13:47.222652 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:47.279403 (metrics) cpu some: 2555.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:47.279509 (filter-metrics) cpu some: 1191.413405 full 0.000000 memory some: 0.000000 full 0.000000 io some: 57.015388 full 49.326516
+2025/05/19 16:13:47.379446 (metrics) cpu some: 821.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:47.379589 (filter-metrics) cpu some: 1168.262567 full 0.000000 memory some: 0.000000 full 0.000000 io some: 53.451927 full 46.243609
+2025/05/19 16:13:47.479380 (metrics) cpu some: 641.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:47.479488 (filter-metrics) cpu some: 1135.308656 full 0.000000 memory some: 0.000000 full 0.000000 io some: 50.111181 full 43.353383
+2025/05/19 16:13:47.579317 (metrics) cpu some: 821.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:47.579441 (filter-metrics) cpu some: 1115.664365 full 0.000000 memory some: 0.000000 full 0.000000 io some: 46.979232 full 40.643797
+2025/05/19 16:13:47.679562 (metrics) cpu some: 458.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 19995.000000 full 19340.000000
+2025/05/19 16:13:47.679696 (filter-metrics) cpu some: 1074.560343 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1842.301101 full 1777.585855
+2025/05/19 16:13:47.779745 (metrics) cpu some: 355.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:47.779835 (filter-metrics) cpu some: 1029.587821 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1727.157283 full 1666.486739
+2025/05/19 16:13:47.879522 (metrics) cpu some: 342.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:47.879624 (filter-metrics) cpu some: 986.613582 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1619.209952 full 1562.331318
+2025/05/19 16:13:47.979650 (metrics) cpu some: 272.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2290.000000 full 2004.000000
+2025/05/19 16:13:47.979749 (filter-metrics) cpu some: 941.950233 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1679.581057 full 1602.081499
+2025/05/19 16:13:48.079676 (metrics) cpu some: 629.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:48.079788 (filter-metrics) cpu some: 922.390844 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1574.607241 full 1501.951406
+2025/05/19 16:13:48.179643 (metrics) cpu some: 537.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:48.179741 (filter-metrics) cpu some: 898.303916 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1476.194288 full 1408.079443
+2025/05/19 16:13:48.221709 (capacity) podCount = 0.000000
+2025/05/19 16:13:48.221932 (capacity) capacity: 0.8980 | cost: -1.0000
+2025/05/19 16:13:48.222013 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:48.279147 (metrics) cpu some: 2400.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:48.279232 (filter-metrics) cpu some: 1033.456564 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1383.932145 full 1320.074478
+2025/05/19 16:13:48.380455 (metrics) cpu some: 407.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:48.380525 (filter-metrics) cpu some: 994.303028 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1297.436386 full 1237.569823
+2025/05/19 16:13:48.478892 (metrics) cpu some: 1758.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 605.000000 full 594.000000
+2025/05/19 16:13:48.479058 (filter-metrics) cpu some: 1063.035756 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1254.159112 full 1197.346709
+2025/05/19 16:13:48.578814 (metrics) cpu some: 662.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:48.579047 (filter-metrics) cpu some: 1037.971021 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1175.774167 full 1122.512540
+2025/05/19 16:13:48.678459 (metrics) cpu some: 1218.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:48.678537 (filter-metrics) cpu some: 1054.173629 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1102.288282 full 1052.355506
+2025/05/19 16:13:48.779455 (metrics) cpu some: 202.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:48.779595 (filter-metrics) cpu some: 1000.912777 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1033.395264 full 986.583287
+2025/05/19 16:13:48.879276 (metrics) cpu some: 466.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:48.879390 (filter-metrics) cpu some: 967.480729 full 0.000000 memory some: 0.000000 full 0.000000 io some: 968.808060 full 924.921831
+2025/05/19 16:13:48.979072 (metrics) cpu some: 419.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:48.979161 (filter-metrics) cpu some: 933.200683 full 0.000000 memory some: 0.000000 full 0.000000 io some: 908.257557 full 867.114217
+2025/05/19 16:13:49.078829 (metrics) cpu some: 658.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:49.078914 (filter-metrics) cpu some: 916.000641 full 0.000000 memory some: 0.000000 full 0.000000 io some: 851.491459 full 812.919578
+2025/05/19 16:13:49.180847 (metrics) cpu some: 4813.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:49.180975 (filter-metrics) cpu some: 1266.730583 full 0.000000 memory some: 0.000000 full 0.000000 io some: 798.273243 full 762.112105
+2025/05/19 16:13:49.222372 (capacity) podCount = 0.000000
+2025/05/19 16:13:49.222560 (capacity) capacity: 0.8827 | cost: -1.0000
+2025/05/19 16:13:49.222576 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:0, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 16:13:49.279104 (metrics) cpu some: 4819.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:49.279227 (filter-metrics) cpu some: 1586.434830 full 0.000000 memory some: 0.000000 full 0.000000 io some: 748.381165 full 714.480098
+2025/05/19 16:13:49.379134 (metrics) cpu some: 647.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:49.379232 (filter-metrics) cpu some: 1527.720154 full 0.000000 memory some: 0.000000 full 0.000000 io some: 701.607343 full 669.825092
+2025/05/19 16:13:49.478931 (metrics) cpu some: 332.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:49.479162 (filter-metrics) cpu some: 1452.987644 full 0.000000 memory some: 0.000000 full 0.000000 io some: 657.756884 full 627.961024
+2025/05/19 16:13:49.579683 (metrics) cpu some: 423.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:49.579815 (filter-metrics) cpu some: 1388.613416 full 0.000000 memory some: 0.000000 full 0.000000 io some: 616.647078 full 588.713460
+2025/05/19 16:13:49.679328 (metrics) cpu some: 349.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:49.679450 (filter-metrics) cpu some: 1323.637578 full 0.000000 memory some: 0.000000 full 0.000000 io some: 578.106636 full 551.918868
+2025/05/19 16:13:49.779225 (metrics) cpu some: 409.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:49.779331 (filter-metrics) cpu some: 1266.472729 full 0.000000 memory some: 0.000000 full 0.000000 io some: 541.974971 full 517.423939
+2025/05/19 16:13:49.879170 (metrics) cpu some: 4050.000000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.000000 full 0.000000
+2025/05/19 16:13:49.879242 (filter-metrics) cpu some: 1516.990183 full 0.000000 memory some: 0.000000 full 0.000000 io some: 508.101536 full 485.084943

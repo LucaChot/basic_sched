@@ -1,0 +1,788 @@
+2025/05/19 15:42:54.817857 created container informer
+2025/05/19 15:42:54.839351 (container) start watching function
+2025/05/19 15:42:54.843543 (container) received subscribe stream
+2025/05/19 15:42:54.919842 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:55.020368 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:55.120741 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:55.221221 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:55.320163 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:55.420443 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:55.520584 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:55.622190 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:55.720806 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:55.820478 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:55.862918 (capacity) podCount = 0.000000
+2025/05/19 15:42:55.863001 (capacity) capacity: +Inf | cost: NaN
+2025/05/19 15:42:55.863019 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:42:55.920303 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:56.019897 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:56.120556 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:56.220469 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:56.320624 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:56.420716 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:56.520734 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:56.620670 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:56.721305 (metrics) cpu some: 2.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.840000 full 0.840000
+2025/05/19 15:42:56.820600 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:56.863435 (capacity) podCount = 0.000000
+2025/05/19 15:42:56.863516 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:42:56.863536 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:42:56.920547 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:57.020423 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:57.120599 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:57.220300 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:57.320817 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:57.420542 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:57.519927 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:57.620098 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:57.719905 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:57.820514 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:57.862627 (capacity) podCount = 0.000000
+2025/05/19 15:42:57.862716 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:42:57.862730 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:42:57.921078 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:58.020615 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:58.120786 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:58.219926 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:58.320781 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:58.419607 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:58.521012 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:58.620815 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:58.719835 (metrics) cpu some: 1.960000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.690000 full 0.690000
+2025/05/19 15:42:58.820099 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:58.863023 (capacity) podCount = 0.000000
+2025/05/19 15:42:58.863070 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:42:58.863083 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:42:58.920801 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:59.019827 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:59.119837 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:59.220620 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:59.320473 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:59.420759 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:59.520036 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:59.619876 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:59.720816 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:59.820232 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:42:59.863091 (capacity) podCount = 0.000000
+2025/05/19 15:42:59.863338 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:42:59.863385 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:42:59.920778 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:43:00.021174 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:43:00.120864 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:43:00.220512 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:43:00.319887 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:43:00.420467 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:43:00.520353 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:43:00.624822 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:43:00.720001 (metrics) cpu some: 1.600000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.560000 full 0.560000
+2025/05/19 15:43:00.821056 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:00.862944 (capacity) podCount = 0.000000
+2025/05/19 15:43:00.863102 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:00.863137 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:00.921058 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:01.020280 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:01.120868 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:01.220544 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:01.321294 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:01.421829 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:01.520642 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:01.620086 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:01.720699 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:01.820384 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:01.862643 (capacity) podCount = 0.000000
+2025/05/19 15:43:01.862899 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:01.862927 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:01.920878 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:02.020457 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:02.121354 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:02.221052 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:02.320553 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:02.420551 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:02.521294 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:02.621285 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:02.721117 (metrics) cpu some: 1.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.460000 full 0.460000
+2025/05/19 15:43:02.821003 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:02.862576 (capacity) podCount = 0.000000
+2025/05/19 15:43:02.862677 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:02.862701 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:02.920775 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:03.020628 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:03.120333 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:03.221028 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:03.320612 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:03.420222 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:03.520373 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:03.621343 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:03.720014 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:03.821023 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:03.862946 (capacity) podCount = 0.000000
+2025/05/19 15:43:03.863029 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:03.863046 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:03.920466 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:04.019730 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:04.120737 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:04.220735 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:04.320503 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:04.420639 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:04.520301 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:04.620326 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:04.720338 (metrics) cpu some: 1.070000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.370000 full 0.370000
+2025/05/19 15:43:04.821037 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:04.862695 (capacity) podCount = 0.000000
+2025/05/19 15:43:04.862794 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:04.862825 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:04.920464 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:05.020698 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:05.120178 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:05.221030 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:05.320887 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:05.420527 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:05.520708 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:05.620694 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:05.720223 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:05.820392 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:05.863452 (capacity) podCount = 0.000000
+2025/05/19 15:43:05.863508 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:05.863534 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:05.920325 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:06.020033 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:06.120526 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:06.220433 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:06.320193 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:06.420061 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:06.520787 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:06.620693 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:06.720085 (metrics) cpu some: 1.060000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.310000 full 0.310000
+2025/05/19 15:43:06.820642 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:06.862525 (capacity) podCount = 0.000000
+2025/05/19 15:43:06.862626 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:06.862645 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:06.920282 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:07.020654 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:07.121662 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:07.220287 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:07.320592 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:07.420899 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:07.520447 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:07.620595 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:07.720795 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:07.820332 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:07.862991 (capacity) podCount = 0.000000
+2025/05/19 15:43:07.863221 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:07.863247 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:07.921152 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:08.020254 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:08.120314 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:08.220548 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:08.321031 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:08.420462 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:08.521234 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:08.620498 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:08.720684 (metrics) cpu some: 1.050000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.250000 full 0.250000
+2025/05/19 15:43:08.820566 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:08.862382 (capacity) podCount = 0.000000
+2025/05/19 15:43:08.862413 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:08.862427 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:08.920191 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:09.020665 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:09.121460 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:09.219834 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:09.320389 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:09.419753 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:09.520641 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:09.621034 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:09.720245 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:09.820270 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:09.863201 (capacity) podCount = 0.000000
+2025/05/19 15:43:09.863239 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:09.863246 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:09.920751 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:10.019739 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:10.119823 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:10.220390 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:10.320693 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:10.420080 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:10.519830 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:10.620847 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:10.720145 (metrics) cpu some: 0.860000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.200000 full 0.200000
+2025/05/19 15:43:10.820687 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:10.862437 (capacity) podCount = 0.000000
+2025/05/19 15:43:10.862639 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:10.862695 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:10.921241 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:11.020627 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:11.121560 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:11.221226 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:11.320829 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:11.420270 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:11.521636 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:11.620112 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:11.721376 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:11.820807 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:11.862846 (capacity) podCount = 0.000000
+2025/05/19 15:43:11.862917 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:11.862968 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:11.920287 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:12.020464 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:12.121172 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:12.223115 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:12.320011 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:12.420574 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:12.520442 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:12.620441 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:12.720691 (metrics) cpu some: 0.700000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.160000 full 0.160000
+2025/05/19 15:43:12.820642 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:12.863291 (capacity) podCount = 0.000000
+2025/05/19 15:43:12.863579 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:12.863603 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:12.920726 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:13.020343 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:13.121481 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:13.220370 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:13.319885 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:13.420760 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:13.520277 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:13.620221 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:13.721160 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:13.820865 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:13.863151 (capacity) podCount = 0.000000
+2025/05/19 15:43:13.863276 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:13.863312 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:13.920370 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:14.020425 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:14.120510 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:14.220904 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:14.320671 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:14.420721 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:14.520813 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:14.620643 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:14.721125 (metrics) cpu some: 0.570000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.130000 full 0.130000
+2025/05/19 15:43:14.820361 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:14.863170 (capacity) podCount = 0.000000
+2025/05/19 15:43:14.863306 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:14.863329 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:14.920339 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:15.020761 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:15.121676 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:15.220488 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:15.321291 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:15.420478 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:15.520911 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:15.621151 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:15.721275 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:15.820531 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:15.863349 (capacity) podCount = 0.000000
+2025/05/19 15:43:15.863439 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:15.863463 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:15.920854 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:16.021149 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:16.120744 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:16.221301 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:16.320875 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:16.420892 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:16.521102 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:16.621107 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:16.720645 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.110000 full 0.110000
+2025/05/19 15:43:16.820310 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:16.862859 (capacity) podCount = 0.000000
+2025/05/19 15:43:16.862951 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:16.862969 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:16.921125 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:17.021439 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:17.120912 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:17.221048 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:17.320613 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:17.420110 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:17.521256 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:17.621168 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:17.721221 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:17.821245 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:17.863442 (capacity) podCount = 0.000000
+2025/05/19 15:43:17.863532 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:17.863559 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:17.920527 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:18.019879 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:18.119888 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:18.220661 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:18.320505 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:18.420427 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:18.519845 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:18.620654 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:18.720753 (metrics) cpu some: 0.380000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.090000 full 0.090000
+2025/05/19 15:43:18.820550 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:18.862996 (capacity) podCount = 0.000000
+2025/05/19 15:43:18.863080 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:18.863103 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:18.921044 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:19.021254 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:19.120787 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:19.221597 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:19.321334 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:19.421392 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:19.521587 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:19.620722 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:19.720395 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:19.820365 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:19.862625 (capacity) podCount = 0.000000
+2025/05/19 15:43:19.862710 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:19.862731 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:19.921282 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:20.021280 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:20.121345 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:20.221313 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:20.320643 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:20.420473 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:20.520173 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:20.620437 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:20.721033 (metrics) cpu some: 0.310000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.070000 full 0.070000
+2025/05/19 15:43:20.820864 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:20.863126 (capacity) podCount = 0.000000
+2025/05/19 15:43:20.863267 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:20.863290 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:20.920892 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:21.020830 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:21.121025 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:21.220737 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:21.321154 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:21.421031 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:21.521215 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:21.620281 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:21.721075 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:21.820405 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:21.863033 (capacity) podCount = 0.000000
+2025/05/19 15:43:21.863164 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:21.863183 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:21.921101 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:22.020824 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:22.120638 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:22.220643 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:22.320610 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:22.420747 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:22.521031 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:22.620746 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:22.721026 (metrics) cpu some: 0.250000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.060000 full 0.060000
+2025/05/19 15:43:22.820734 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:22.862930 (capacity) podCount = 0.000000
+2025/05/19 15:43:22.863015 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:22.863038 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:22.920338 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:23.020518 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:23.120093 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:23.221461 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:23.320255 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:23.421456 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:23.520084 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:23.620754 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:23.720861 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:23.820864 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:23.863404 (capacity) podCount = 0.000000
+2025/05/19 15:43:23.863518 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:23.863578 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:23.920523 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:24.021109 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:24.121076 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:24.220696 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:24.322768 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:24.420220 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:24.521088 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:24.620865 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:24.720851 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.050000 full 0.050000
+2025/05/19 15:43:24.820791 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:24.862966 (capacity) podCount = 0.000000
+2025/05/19 15:43:24.863233 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:24.863259 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:24.920977 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:25.020580 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:25.121045 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:25.221148 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:25.320706 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:25.421625 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:25.521616 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:25.620202 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:25.721358 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:25.821016 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:25.862804 (capacity) podCount = 0.000000
+2025/05/19 15:43:25.862982 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:25.863027 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:25.921480 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:26.020517 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:26.120859 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:26.220865 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:26.320815 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:26.420241 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:26.520823 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:26.620514 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:26.721238 (metrics) cpu some: 0.170000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.040000 full 0.040000
+2025/05/19 15:43:26.820660 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:26.862482 (capacity) podCount = 0.000000
+2025/05/19 15:43:26.862566 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:26.862589 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:26.920426 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:27.020898 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:27.120807 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:27.220556 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:27.321422 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:27.420623 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:27.520749 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:27.620538 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:27.720381 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:27.821283 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:27.863473 (capacity) podCount = 0.000000
+2025/05/19 15:43:27.863636 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:27.863662 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:27.920410 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:28.020345 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:28.120812 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:28.220302 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:28.321257 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:28.420880 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:28.521158 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:28.620712 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:28.720488 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.920000 full 4.740000
+2025/05/19 15:43:28.821031 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:28.863490 (capacity) podCount = 0.000000
+2025/05/19 15:43:28.863578 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:28.863595 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:28.921556 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:29.021579 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:29.121236 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:29.221235 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:29.321066 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:29.421229 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:29.521171 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:29.621375 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:29.721277 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:29.821423 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:29.862803 (capacity) podCount = 0.000000
+2025/05/19 15:43:29.863001 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:29.863030 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:29.921042 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:30.020458 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:30.120483 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:30.220512 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:30.320398 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:30.420919 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:30.520405 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:30.621137 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:30.721601 (metrics) cpu some: 0.440000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 4.030000 full 3.880000
+2025/05/19 15:43:30.820572 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:30.862555 (capacity) podCount = 0.000000
+2025/05/19 15:43:30.862686 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:30.862721 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:30.920662 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:31.020661 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:31.120012 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:31.220651 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:31.321034 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:31.421071 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:31.520556 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:31.621112 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:31.720806 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:31.820711 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:31.862525 (capacity) podCount = 0.000000
+2025/05/19 15:43:31.862574 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:31.862604 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:31.920145 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:32.020750 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:32.120060 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:32.220261 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:32.320651 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:32.420354 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:32.520507 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:32.620048 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:32.720110 (metrics) cpu some: 0.360000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 3.300000 full 3.180000
+2025/05/19 15:43:32.820506 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:32.863382 (capacity) podCount = 0.000000
+2025/05/19 15:43:32.863471 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:32.863503 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:32.920647 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:33.020234 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:33.120720 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:33.220431 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:33.321193 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:33.420854 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:33.520716 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:33.621237 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:33.720711 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:33.820285 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:33.862724 (capacity) podCount = 0.000000
+2025/05/19 15:43:33.862820 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:33.862838 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:33.920613 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:34.021075 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:34.120262 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:34.221131 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:34.321010 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:34.420854 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:34.520506 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:34.620775 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:34.720582 (metrics) cpu some: 0.470000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.700000 full 2.600000
+2025/05/19 15:43:34.820659 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:34.862567 (capacity) podCount = 0.000000
+2025/05/19 15:43:34.862703 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:34.862729 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:34.920633 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:35.020831 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:35.120154 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:35.220921 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:35.321212 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:35.421426 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:35.521248 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:35.621037 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:35.720345 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:35.821240 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:35.862443 (capacity) podCount = 0.000000
+2025/05/19 15:43:35.862609 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:35.862637 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:35.920594 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:36.020464 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:36.122232 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:36.220569 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:36.321224 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:36.421403 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:36.520728 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:36.621226 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:36.720232 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 2.210000 full 2.130000
+2025/05/19 15:43:36.820483 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:36.863087 (capacity) podCount = 0.000000
+2025/05/19 15:43:36.863291 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:36.863310 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:36.920600 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:37.021205 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:37.120080 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:37.220401 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:37.321376 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:37.420149 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:37.520646 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:37.620707 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:37.720305 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:37.821169 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:37.862632 (capacity) podCount = 0.000000
+2025/05/19 15:43:37.862870 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:37.862930 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:37.920847 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:38.020798 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:38.121075 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:38.220650 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:38.320817 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:38.420922 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:38.520757 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:38.620698 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:38.721057 (metrics) cpu some: 0.500000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.810000 full 1.740000
+2025/05/19 15:43:38.821203 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:38.862637 (capacity) podCount = 0.000000
+2025/05/19 15:43:38.862723 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:38.862750 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:38.920311 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:39.021315 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:39.121074 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:39.220685 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:39.320535 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:39.420191 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:39.520341 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:39.621120 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:39.720670 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:39.820462 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:39.862855 (capacity) podCount = 0.000000
+2025/05/19 15:43:39.863111 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:39.863145 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:39.920507 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:40.020858 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:40.121117 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:40.220474 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:40.320379 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:40.420881 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:40.520125 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:40.620684 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:40.720391 (metrics) cpu some: 0.410000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.480000 full 1.420000
+2025/05/19 15:43:40.820499 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:40.863163 (capacity) podCount = 0.000000
+2025/05/19 15:43:40.863251 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:40.863265 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:40.920572 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:41.020811 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:41.121208 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:41.220920 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:41.320766 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:41.420392 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:41.520344 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:41.621165 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:41.720771 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:41.820798 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:41.862548 (capacity) podCount = 0.000000
+2025/05/19 15:43:41.862675 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:41.862725 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:41.920580 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:42.020992 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:42.120620 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:42.221243 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:42.321477 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:42.420158 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:42.521285 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:42.620398 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:42.720525 (metrics) cpu some: 0.330000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 1.210000 full 1.160000
+2025/05/19 15:43:42.820651 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:42.863255 (capacity) podCount = 0.000000
+2025/05/19 15:43:42.863332 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:42.863364 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:42.920342 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:43.021021 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:43.120711 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:43.221277 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:43.321174 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:43.420863 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:43.521128 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:43.620686 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:43.720874 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:43.821133 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:43.863184 (capacity) podCount = 0.000000
+2025/05/19 15:43:43.863311 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:43.863330 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:43.920291 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:44.021474 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:44.120277 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:44.221176 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:44.321081 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:44.421208 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:44.521364 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:44.621116 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:44.720545 (metrics) cpu some: 0.450000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.990000 full 0.950000
+2025/05/19 15:43:44.821388 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:44.863170 (capacity) podCount = 0.000000
+2025/05/19 15:43:44.863289 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:44.863317 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:44.920255 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:45.020884 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:45.120696 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:45.220591 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:45.320929 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:45.420283 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:45.521220 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:45.621112 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:45.720863 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:45.820503 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:45.863099 (capacity) podCount = 0.000000
+2025/05/19 15:43:45.863219 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:45.863243 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:45.920830 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:46.021016 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:46.120254 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:46.220647 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:46.320084 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:46.420335 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:46.520539 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:46.620726 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:46.720755 (metrics) cpu some: 0.370000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.810000 full 0.780000
+2025/05/19 15:43:46.819608 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:46.862468 (capacity) podCount = 0.000000
+2025/05/19 15:43:46.862523 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:46.862536 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:46.920101 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:47.020633 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:47.120587 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:47.219888 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:47.320658 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:47.420037 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:47.520777 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:47.620199 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:47.720841 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:47.820476 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:47.863255 (capacity) podCount = 0.000000
+2025/05/19 15:43:47.863364 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:47.863388 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:47.920778 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:48.020644 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:48.120631 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:48.220215 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:48.320622 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:48.421040 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:48.520896 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:48.620327 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:48.720841 (metrics) cpu some: 0.480000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.660000 full 0.640000
+2025/05/19 15:43:48.820475 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:48.862940 (capacity) podCount = 0.000000
+2025/05/19 15:43:48.863074 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:48.863095 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:48.920224 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:49.019904 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:49.120529 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:49.220251 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:49.320160 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:49.419801 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:49.519825 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:49.620323 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:49.721391 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:49.819855 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:49.863004 (capacity) podCount = 0.000000
+2025/05/19 15:43:49.863197 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:49.863214 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:49.920368 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:50.020926 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:50.120845 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:50.220473 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:50.321055 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:50.420835 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:50.521123 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:50.619995 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:50.721105 (metrics) cpu some: 0.390000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.540000 full 0.520000
+2025/05/19 15:43:50.820680 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:50.862478 (capacity) podCount = 0.000000
+2025/05/19 15:43:50.862564 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:50.862592 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:50.920083 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:51.020836 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:51.120712 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:51.221256 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:51.321032 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:51.421370 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:51.520843 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:51.620822 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:51.720647 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:51.820929 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:51.862949 (capacity) podCount = 0.000000
+2025/05/19 15:43:51.863016 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:51.863030 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:51.919995 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:52.019814 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:52.120750 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:52.219840 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:52.320161 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:52.420830 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:52.520289 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:52.620666 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:52.720634 (metrics) cpu some: 0.320000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.440000 full 0.420000
+2025/05/19 15:43:52.821214 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:52.863391 (capacity) podCount = 0.000000
+2025/05/19 15:43:52.863494 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:52.863512 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:52.920449 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:53.021308 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:53.120416 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:53.220495 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:53.321059 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:53.420769 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:53.521014 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:53.620780 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:53.721044 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:53.820563 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:53.863526 (capacity) podCount = 0.000000
+2025/05/19 15:43:53.863641 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:53.863661 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:53.920747 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:54.020730 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:54.120692 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:54.220456 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:54.320229 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:54.421017 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:54.521366 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:54.620651 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:54.720527 (metrics) cpu some: 0.260000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.360000 full 0.350000
+2025/05/19 15:43:54.820073 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.290000 full 0.280000
+2025/05/19 15:43:54.863338 (capacity) podCount = 0.000000
+2025/05/19 15:43:54.863445 (capacity) capacity: NaN | cost: NaN
+2025/05/19 15:43:54.863475 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 15:43:54.921116 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.290000 full 0.280000
+2025/05/19 15:43:55.020883 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.290000 full 0.280000
+2025/05/19 15:43:55.120050 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.290000 full 0.280000
+2025/05/19 15:43:55.220547 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.290000 full 0.280000
+2025/05/19 15:43:55.320685 (metrics) cpu some: 0.210000 full 0.000000 memory some: 0.000000 full 0.000000 io some: 0.290000 full 0.280000

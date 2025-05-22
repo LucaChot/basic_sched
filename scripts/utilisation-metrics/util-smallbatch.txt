@@ -1,0 +1,1216 @@
+2025/05/19 20:09:58.122352 created container informer
+2025/05/19 20:09:58.136122 (container) start watching function
+2025/05/19 20:09:58.139677 (container) received subscribe stream
+2025/05/19 20:09:58.225105 (metrics) cpu: 0.166667 memory: 0.062723
+2025/05/19 20:09:58.225236 (filter-metrics) cpu: 0.166667 memory: 0.062723
+2025/05/19 20:09:58.325266 (metrics) cpu: 0.000000 memory: 0.062723
+2025/05/19 20:09:58.325459 (filter-metrics) cpu: 0.156250 memory: 0.062723
+2025/05/19 20:09:58.425595 (metrics) cpu: 0.000000 memory: 0.062723
+2025/05/19 20:09:58.425739 (filter-metrics) cpu: 0.146484 memory: 0.062723
+2025/05/19 20:09:58.524869 (metrics) cpu: 0.000000 memory: 0.062723
+2025/05/19 20:09:58.525019 (filter-metrics) cpu: 0.137329 memory: 0.062723
+2025/05/19 20:09:58.625043 (metrics) cpu: 0.025641 memory: 0.062723
+2025/05/19 20:09:58.625111 (filter-metrics) cpu: 0.130349 memory: 0.062723
+2025/05/19 20:09:58.725360 (metrics) cpu: 0.024390 memory: 0.062723
+2025/05/19 20:09:58.725445 (filter-metrics) cpu: 0.123726 memory: 0.062723
+2025/05/19 20:09:58.825074 (metrics) cpu: 0.102564 memory: 0.062721
+2025/05/19 20:09:58.825178 (filter-metrics) cpu: 0.122404 memory: 0.062723
+2025/05/19 20:09:58.924447 (metrics) cpu: 0.025000 memory: 0.062721
+2025/05/19 20:09:58.924540 (filter-metrics) cpu: 0.116316 memory: 0.062723
+2025/05/19 20:09:59.025487 (metrics) cpu: 0.000000 memory: 0.062721
+2025/05/19 20:09:59.025655 (filter-metrics) cpu: 0.093053 memory: 0.062723
+2025/05/19 20:09:59.125392 (metrics) cpu: 0.000000 memory: 0.062721
+2025/05/19 20:09:59.125520 (filter-metrics) cpu: 0.074442 memory: 0.062722
+2025/05/19 20:09:59.160347 (capacity) podCount = 0.000000
+2025/05/19 20:09:59.160424 (capacity) capacity: +Inf | cost: NaN
+2025/05/19 20:09:59.160452 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:09:59.224430 (metrics) cpu: 0.075000 memory: 0.062721
+2025/05/19 20:09:59.224526 (filter-metrics) cpu: 0.074492 memory: 0.062722
+2025/05/19 20:09:59.324432 (metrics) cpu: 0.000000 memory: 0.062721
+2025/05/19 20:09:59.324508 (filter-metrics) cpu: 0.069837 memory: 0.062722
+2025/05/19 20:09:59.425646 (metrics) cpu: 0.000000 memory: 0.062721
+2025/05/19 20:09:59.425740 (filter-metrics) cpu: 0.065472 memory: 0.062722
+2025/05/19 20:09:59.525428 (metrics) cpu: 0.025000 memory: 0.062721
+2025/05/19 20:09:59.525859 (filter-metrics) cpu: 0.057377 memory: 0.062722
+2025/05/19 20:09:59.625588 (metrics) cpu: 0.024390 memory: 0.062721
+2025/05/19 20:09:59.625684 (filter-metrics) cpu: 0.050780 memory: 0.062722
+2025/05/19 20:09:59.724552 (metrics) cpu: 0.025641 memory: 0.062721
+2025/05/19 20:09:59.724693 (filter-metrics) cpu: 0.045752 memory: 0.062722
+2025/05/19 20:09:59.824874 (metrics) cpu: 0.025000 memory: 0.062721
+2025/05/19 20:09:59.825017 (filter-metrics) cpu: 0.041602 memory: 0.062721
+2025/05/19 20:09:59.925102 (metrics) cpu: 0.205128 memory: 0.062721
+2025/05/19 20:09:59.925183 (filter-metrics) cpu: 0.056319 memory: 0.062721
+2025/05/19 20:10:00.024850 (metrics) cpu: 0.000000 memory: 0.062721
+2025/05/19 20:10:00.025028 (filter-metrics) cpu: 0.052799 memory: 0.062721
+2025/05/19 20:10:00.124704 (metrics) cpu: 0.048780 memory: 0.062721
+2025/05/19 20:10:00.124824 (filter-metrics) cpu: 0.052548 memory: 0.062721
+2025/05/19 20:10:00.160645 (capacity) podCount = 0.000000
+2025/05/19 20:10:00.160710 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:00.160728 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:00.224221 (metrics) cpu: 0.076923 memory: 0.062721
+2025/05/19 20:10:00.224361 (filter-metrics) cpu: 0.054742 memory: 0.062721
+2025/05/19 20:10:00.324465 (metrics) cpu: 0.025000 memory: 0.062721
+2025/05/19 20:10:00.324560 (filter-metrics) cpu: 0.052883 memory: 0.062721
+2025/05/19 20:10:00.424905 (metrics) cpu: 0.000000 memory: 0.062721
+2025/05/19 20:10:00.425058 (filter-metrics) cpu: 0.049578 memory: 0.062721
+2025/05/19 20:10:00.525626 (metrics) cpu: 0.025000 memory: 0.062721
+2025/05/19 20:10:00.525722 (filter-metrics) cpu: 0.044662 memory: 0.062721
+2025/05/19 20:10:00.624824 (metrics) cpu: 0.078947 memory: 0.062721
+2025/05/19 20:10:00.624974 (filter-metrics) cpu: 0.047748 memory: 0.062721
+2025/05/19 20:10:00.725384 (metrics) cpu: 0.000000 memory: 0.062721
+2025/05/19 20:10:00.725496 (filter-metrics) cpu: 0.044764 memory: 0.062721
+2025/05/19 20:10:00.825274 (metrics) cpu: 0.050000 memory: 0.062720
+2025/05/19 20:10:00.825381 (filter-metrics) cpu: 0.045235 memory: 0.062721
+2025/05/19 20:10:00.924645 (metrics) cpu: 0.076923 memory: 0.062720
+2025/05/19 20:10:00.924711 (filter-metrics) cpu: 0.048087 memory: 0.062721
+2025/05/19 20:10:01.024895 (metrics) cpu: 0.075000 memory: 0.062720
+2025/05/19 20:10:01.025009 (filter-metrics) cpu: 0.050509 memory: 0.062721
+2025/05/19 20:10:01.125074 (metrics) cpu: 0.000000 memory: 0.062720
+2025/05/19 20:10:01.125183 (filter-metrics) cpu: 0.047352 memory: 0.062721
+2025/05/19 20:10:01.160334 (capacity) podCount = 0.000000
+2025/05/19 20:10:01.160410 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:01.160430 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:01.224818 (metrics) cpu: 0.025641 memory: 0.062720
+2025/05/19 20:10:01.224925 (filter-metrics) cpu: 0.045995 memory: 0.062721
+2025/05/19 20:10:01.325070 (metrics) cpu: 0.047619 memory: 0.062720
+2025/05/19 20:10:01.325141 (filter-metrics) cpu: 0.046141 memory: 0.062721
+2025/05/19 20:10:01.424442 (metrics) cpu: 0.000000 memory: 0.062720
+2025/05/19 20:10:01.424554 (filter-metrics) cpu: 0.043258 memory: 0.062721
+2025/05/19 20:10:01.525207 (metrics) cpu: 0.000000 memory: 0.062720
+2025/05/19 20:10:01.525344 (filter-metrics) cpu: 0.040554 memory: 0.062720
+2025/05/19 20:10:01.625108 (metrics) cpu: 0.128205 memory: 0.062720
+2025/05/19 20:10:01.625194 (filter-metrics) cpu: 0.048443 memory: 0.062720
+2025/05/19 20:10:01.724898 (metrics) cpu: 0.052632 memory: 0.062720
+2025/05/19 20:10:01.725016 (filter-metrics) cpu: 0.048820 memory: 0.062720
+2025/05/19 20:10:01.824448 (metrics) cpu: 0.048780 memory: 0.062720
+2025/05/19 20:10:01.824521 (filter-metrics) cpu: 0.048817 memory: 0.062720
+2025/05/19 20:10:01.924344 (metrics) cpu: 0.000000 memory: 0.062720
+2025/05/19 20:10:01.924425 (filter-metrics) cpu: 0.045766 memory: 0.062720
+2025/05/19 20:10:02.024225 (metrics) cpu: 0.075000 memory: 0.062720
+2025/05/19 20:10:02.024316 (filter-metrics) cpu: 0.048397 memory: 0.062720
+2025/05/19 20:10:02.124370 (metrics) cpu: 0.025000 memory: 0.062720
+2025/05/19 20:10:02.124491 (filter-metrics) cpu: 0.046935 memory: 0.062720
+2025/05/19 20:10:02.160873 (capacity) podCount = 0.000000
+2025/05/19 20:10:02.161041 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:02.161066 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:02.225386 (metrics) cpu: 0.000000 memory: 0.062720
+2025/05/19 20:10:02.225460 (filter-metrics) cpu: 0.044001 memory: 0.062720
+2025/05/19 20:10:02.324994 (metrics) cpu: 0.025000 memory: 0.062720
+2025/05/19 20:10:02.325085 (filter-metrics) cpu: 0.040201 memory: 0.062720
+2025/05/19 20:10:02.424491 (metrics) cpu: 0.025000 memory: 0.062720
+2025/05/19 20:10:02.424571 (filter-metrics) cpu: 0.037161 memory: 0.062720
+2025/05/19 20:10:02.525231 (metrics) cpu: 0.000000 memory: 0.062720
+2025/05/19 20:10:02.525364 (filter-metrics) cpu: 0.029729 memory: 0.062720
+2025/05/19 20:10:02.624542 (metrics) cpu: 0.051282 memory: 0.062720
+2025/05/19 20:10:02.624613 (filter-metrics) cpu: 0.031669 memory: 0.062720
+2025/05/19 20:10:02.725223 (metrics) cpu: 0.000000 memory: 0.062720
+2025/05/19 20:10:02.725333 (filter-metrics) cpu: 0.029689 memory: 0.062720
+2025/05/19 20:10:02.824663 (metrics) cpu: 0.025000 memory: 0.062719
+2025/05/19 20:10:02.824779 (filter-metrics) cpu: 0.029396 memory: 0.062720
+2025/05/19 20:10:02.925135 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:02.925229 (filter-metrics) cpu: 0.023517 memory: 0.062720
+2025/05/19 20:10:03.025329 (metrics) cpu: 0.048780 memory: 0.062719
+2025/05/19 20:10:03.025462 (filter-metrics) cpu: 0.025791 memory: 0.062720
+2025/05/19 20:10:03.125148 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:03.125246 (filter-metrics) cpu: 0.024179 memory: 0.062720
+2025/05/19 20:10:03.160403 (capacity) podCount = 0.000000
+2025/05/19 20:10:03.160604 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:03.160641 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:03.224804 (metrics) cpu: 0.026316 memory: 0.062719
+2025/05/19 20:10:03.224882 (filter-metrics) cpu: 0.024371 memory: 0.062720
+2025/05/19 20:10:03.325585 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:03.325722 (filter-metrics) cpu: 0.022848 memory: 0.062720
+2025/05/19 20:10:03.425620 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:03.425733 (filter-metrics) cpu: 0.021420 memory: 0.062720
+2025/05/19 20:10:03.525364 (metrics) cpu: 0.025000 memory: 0.062719
+2025/05/19 20:10:03.525513 (filter-metrics) cpu: 0.021742 memory: 0.062720
+2025/05/19 20:10:03.625322 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:03.625469 (filter-metrics) cpu: 0.020383 memory: 0.062720
+2025/05/19 20:10:03.724811 (metrics) cpu: 0.050000 memory: 0.062719
+2025/05/19 20:10:03.724930 (filter-metrics) cpu: 0.023049 memory: 0.062719
+2025/05/19 20:10:03.824714 (metrics) cpu: 0.075000 memory: 0.062719
+2025/05/19 20:10:03.824795 (filter-metrics) cpu: 0.027724 memory: 0.062719
+2025/05/19 20:10:03.924933 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:03.925074 (filter-metrics) cpu: 0.025992 memory: 0.062719
+2025/05/19 20:10:04.024818 (metrics) cpu: 0.051282 memory: 0.062719
+2025/05/19 20:10:04.024917 (filter-metrics) cpu: 0.028268 memory: 0.062719
+2025/05/19 20:10:04.124759 (metrics) cpu: 0.025000 memory: 0.062719
+2025/05/19 20:10:04.124826 (filter-metrics) cpu: 0.028063 memory: 0.062719
+2025/05/19 20:10:04.160726 (capacity) podCount = 0.000000
+2025/05/19 20:10:04.160869 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:04.160888 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:04.225207 (metrics) cpu: 0.025641 memory: 0.062719
+2025/05/19 20:10:04.225295 (filter-metrics) cpu: 0.027912 memory: 0.062719
+2025/05/19 20:10:04.324910 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:04.325102 (filter-metrics) cpu: 0.022330 memory: 0.062719
+2025/05/19 20:10:04.425627 (metrics) cpu: 0.024390 memory: 0.062719
+2025/05/19 20:10:04.425764 (filter-metrics) cpu: 0.022515 memory: 0.062719
+2025/05/19 20:10:04.525138 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:04.525292 (filter-metrics) cpu: 0.021108 memory: 0.062719
+2025/05/19 20:10:04.625181 (metrics) cpu: 0.073171 memory: 0.062719
+2025/05/19 20:10:04.625281 (filter-metrics) cpu: 0.025794 memory: 0.062719
+2025/05/19 20:10:04.725425 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:04.725543 (filter-metrics) cpu: 0.024181 memory: 0.062719
+2025/05/19 20:10:04.824454 (metrics) cpu: 0.025641 memory: 0.062719
+2025/05/19 20:10:04.824542 (filter-metrics) cpu: 0.024313 memory: 0.062719
+2025/05/19 20:10:04.924523 (metrics) cpu: 0.128205 memory: 0.062719
+2025/05/19 20:10:04.924657 (filter-metrics) cpu: 0.033663 memory: 0.062719
+2025/05/19 20:10:05.024660 (metrics) cpu: 0.025000 memory: 0.062719
+2025/05/19 20:10:05.024776 (filter-metrics) cpu: 0.033122 memory: 0.062719
+2025/05/19 20:10:05.125199 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:05.125348 (filter-metrics) cpu: 0.031052 memory: 0.062719
+2025/05/19 20:10:05.161046 (capacity) podCount = 0.000000
+2025/05/19 20:10:05.161136 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:05.161162 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:05.224637 (metrics) cpu: 0.025000 memory: 0.062719
+2025/05/19 20:10:05.224772 (filter-metrics) cpu: 0.029841 memory: 0.062719
+2025/05/19 20:10:05.325226 (metrics) cpu: 0.000000 memory: 0.062719
+2025/05/19 20:10:05.325402 (filter-metrics) cpu: 0.023873 memory: 0.062719
+2025/05/19 20:10:05.424852 (metrics) cpu: 0.024390 memory: 0.062719
+2025/05/19 20:10:05.425054 (filter-metrics) cpu: 0.023920 memory: 0.062719
+2025/05/19 20:10:05.524426 (metrics) cpu: 0.025000 memory: 0.062719
+2025/05/19 20:10:05.524525 (filter-metrics) cpu: 0.024017 memory: 0.062719
+2025/05/19 20:10:05.624757 (metrics) cpu: 0.025000 memory: 0.062719
+2025/05/19 20:10:05.624844 (filter-metrics) cpu: 0.024105 memory: 0.062719
+2025/05/19 20:10:05.725315 (metrics) cpu: 0.025000 memory: 0.062719
+2025/05/19 20:10:05.725471 (filter-metrics) cpu: 0.024186 memory: 0.062719
+2025/05/19 20:10:05.824810 (metrics) cpu: 0.025641 memory: 0.062718
+2025/05/19 20:10:05.824907 (filter-metrics) cpu: 0.024317 memory: 0.062719
+2025/05/19 20:10:05.925709 (metrics) cpu: 0.075000 memory: 0.062718
+2025/05/19 20:10:05.925866 (filter-metrics) cpu: 0.028878 memory: 0.062719
+2025/05/19 20:10:06.025282 (metrics) cpu: 0.000000 memory: 0.062718
+2025/05/19 20:10:06.025494 (filter-metrics) cpu: 0.027073 memory: 0.062719
+2025/05/19 20:10:06.124642 (metrics) cpu: 0.025000 memory: 0.062718
+2025/05/19 20:10:06.124728 (filter-metrics) cpu: 0.026944 memory: 0.062719
+2025/05/19 20:10:06.160673 (capacity) podCount = 0.000000
+2025/05/19 20:10:06.160796 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:06.160841 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:06.224499 (metrics) cpu: 0.025000 memory: 0.062718
+2025/05/19 20:10:06.224635 (filter-metrics) cpu: 0.026555 memory: 0.062719
+2025/05/19 20:10:06.324577 (metrics) cpu: 0.025000 memory: 0.062718
+2025/05/19 20:10:06.324684 (filter-metrics) cpu: 0.026244 memory: 0.062719
+2025/05/19 20:10:06.425190 (metrics) cpu: 0.000000 memory: 0.062718
+2025/05/19 20:10:06.425287 (filter-metrics) cpu: 0.020995 memory: 0.062719
+2025/05/19 20:10:06.524524 (metrics) cpu: 0.025000 memory: 0.062718
+2025/05/19 20:10:06.524603 (filter-metrics) cpu: 0.021356 memory: 0.062719
+2025/05/19 20:10:06.624884 (metrics) cpu: 0.026316 memory: 0.062718
+2025/05/19 20:10:06.625071 (filter-metrics) cpu: 0.021802 memory: 0.062719
+2025/05/19 20:10:06.724491 (metrics) cpu: 0.000000 memory: 0.062718
+2025/05/19 20:10:06.724601 (filter-metrics) cpu: 0.020439 memory: 0.062718
+2025/05/19 20:10:06.824858 (metrics) cpu: 0.025000 memory: 0.062718
+2025/05/19 20:10:06.824933 (filter-metrics) cpu: 0.020850 memory: 0.062718
+2025/05/19 20:10:06.925228 (metrics) cpu: 0.025000 memory: 0.062718
+2025/05/19 20:10:06.925312 (filter-metrics) cpu: 0.021223 memory: 0.062718
+2025/05/19 20:10:07.024169 (metrics) cpu: 0.000000 memory: 0.062718
+2025/05/19 20:10:07.024233 (filter-metrics) cpu: 0.019897 memory: 0.062718
+2025/05/19 20:10:07.124520 (metrics) cpu: 0.047619 memory: 0.062718
+2025/05/19 20:10:07.124627 (filter-metrics) cpu: 0.022392 memory: 0.062718
+2025/05/19 20:10:07.160184 (capacity) podCount = 0.000000
+2025/05/19 20:10:07.160243 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:07.160253 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:07.224666 (metrics) cpu: 0.000000 memory: 0.062718
+2025/05/19 20:10:07.224739 (filter-metrics) cpu: 0.020992 memory: 0.062718
+2025/05/19 20:10:07.325332 (metrics) cpu: 0.000000 memory: 0.062718
+2025/05/19 20:10:07.325432 (filter-metrics) cpu: 0.019680 memory: 0.062718
+2025/05/19 20:10:07.425599 (metrics) cpu: 0.025000 memory: 0.062718
+2025/05/19 20:10:07.425750 (filter-metrics) cpu: 0.020159 memory: 0.062718
+2025/05/19 20:10:07.525375 (metrics) cpu: 0.025000 memory: 0.062718
+2025/05/19 20:10:07.525472 (filter-metrics) cpu: 0.020595 memory: 0.062718
+2025/05/19 20:10:07.624786 (metrics) cpu: 0.000000 memory: 0.062718
+2025/05/19 20:10:07.624915 (filter-metrics) cpu: 0.019308 memory: 0.062718
+2025/05/19 20:10:07.725308 (metrics) cpu: 0.024390 memory: 0.062718
+2025/05/19 20:10:07.725421 (filter-metrics) cpu: 0.019765 memory: 0.062718
+2025/05/19 20:10:07.825090 (metrics) cpu: 0.000000 memory: 0.062717
+2025/05/19 20:10:07.825206 (filter-metrics) cpu: 0.018530 memory: 0.062718
+2025/05/19 20:10:07.924599 (metrics) cpu: 0.025641 memory: 0.062717
+2025/05/19 20:10:07.924732 (filter-metrics) cpu: 0.019170 memory: 0.062718
+2025/05/19 20:10:08.025064 (metrics) cpu: 0.050000 memory: 0.062717
+2025/05/19 20:10:08.025216 (filter-metrics) cpu: 0.021945 memory: 0.062718
+2025/05/19 20:10:08.125205 (metrics) cpu: 0.000000 memory: 0.062717
+2025/05/19 20:10:08.125318 (filter-metrics) cpu: 0.020573 memory: 0.062718
+2025/05/19 20:10:08.160657 (capacity) podCount = 0.000000
+2025/05/19 20:10:08.160738 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:08.160756 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:08.224736 (metrics) cpu: 0.073171 memory: 0.062717
+2025/05/19 20:10:08.224851 (filter-metrics) cpu: 0.025307 memory: 0.062718
+2025/05/19 20:10:08.325193 (metrics) cpu: 0.000000 memory: 0.062717
+2025/05/19 20:10:08.325327 (filter-metrics) cpu: 0.023725 memory: 0.062718
+2025/05/19 20:10:08.425764 (metrics) cpu: 0.025000 memory: 0.062717
+2025/05/19 20:10:08.425912 (filter-metrics) cpu: 0.023840 memory: 0.062718
+2025/05/19 20:10:08.525365 (metrics) cpu: 0.000000 memory: 0.062717
+2025/05/19 20:10:08.525467 (filter-metrics) cpu: 0.022350 memory: 0.062718
+2025/05/19 20:10:08.625130 (metrics) cpu: 0.025641 memory: 0.062717
+2025/05/19 20:10:08.625284 (filter-metrics) cpu: 0.022646 memory: 0.062718
+2025/05/19 20:10:08.724765 (metrics) cpu: 0.025000 memory: 0.062717
+2025/05/19 20:10:08.724858 (filter-metrics) cpu: 0.022858 memory: 0.062718
+2025/05/19 20:10:08.825380 (metrics) cpu: 0.048780 memory: 0.062717
+2025/05/19 20:10:08.825483 (filter-metrics) cpu: 0.025191 memory: 0.062718
+2025/05/19 20:10:08.924743 (metrics) cpu: 0.000000 memory: 0.062717
+2025/05/19 20:10:08.924836 (filter-metrics) cpu: 0.023617 memory: 0.062718
+2025/05/19 20:10:09.025317 (metrics) cpu: 0.025000 memory: 0.062717
+2025/05/19 20:10:09.025455 (filter-metrics) cpu: 0.023741 memory: 0.062718
+2025/05/19 20:10:09.124935 (metrics) cpu: 0.000000 memory: 0.062717
+2025/05/19 20:10:09.125098 (filter-metrics) cpu: 0.022257 memory: 0.062718
+2025/05/19 20:10:09.160255 (capacity) podCount = 0.000000
+2025/05/19 20:10:09.160327 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:09.160357 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:09.225177 (metrics) cpu: 0.025641 memory: 0.062717
+2025/05/19 20:10:09.225246 (filter-metrics) cpu: 0.022562 memory: 0.062717
+2025/05/19 20:10:09.325997 (metrics) cpu: 0.024390 memory: 0.062717
+2025/05/19 20:10:09.326135 (filter-metrics) cpu: 0.022726 memory: 0.062717
+2025/05/19 20:10:09.425289 (metrics) cpu: 0.000000 memory: 0.062717
+2025/05/19 20:10:09.425435 (filter-metrics) cpu: 0.021306 memory: 0.062717
+2025/05/19 20:10:09.524842 (metrics) cpu: 0.000000 memory: 0.062717
+2025/05/19 20:10:09.525082 (filter-metrics) cpu: 0.019974 memory: 0.062717
+2025/05/19 20:10:09.625293 (metrics) cpu: 0.000000 memory: 0.062717
+2025/05/19 20:10:09.625410 (filter-metrics) cpu: 0.015979 memory: 0.062717
+2025/05/19 20:10:09.725382 (metrics) cpu: 0.000000 memory: 0.062717
+2025/05/19 20:10:09.725561 (filter-metrics) cpu: 0.012784 memory: 0.062717
+2025/05/19 20:10:09.825220 (metrics) cpu: 0.048780 memory: 0.062717
+2025/05/19 20:10:09.825314 (filter-metrics) cpu: 0.016023 memory: 0.062717
+2025/05/19 20:10:09.924745 (metrics) cpu: 0.025641 memory: 0.062716
+2025/05/19 20:10:09.925034 (filter-metrics) cpu: 0.016889 memory: 0.062717
+2025/05/19 20:10:10.024376 (metrics) cpu: 0.128205 memory: 0.062716
+2025/05/19 20:10:10.024475 (filter-metrics) cpu: 0.026907 memory: 0.062717
+2025/05/19 20:10:10.124635 (metrics) cpu: 0.000000 memory: 0.062716
+2025/05/19 20:10:10.124769 (filter-metrics) cpu: 0.025226 memory: 0.062717
+2025/05/19 20:10:10.160071 (capacity) podCount = 0.000000
+2025/05/19 20:10:10.160148 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:10.160169 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:10.225043 (metrics) cpu: 0.025000 memory: 0.062716
+2025/05/19 20:10:10.225118 (filter-metrics) cpu: 0.025212 memory: 0.062717
+2025/05/19 20:10:10.325546 (metrics) cpu: 0.025000 memory: 0.062716
+2025/05/19 20:10:10.325651 (filter-metrics) cpu: 0.025169 memory: 0.062717
+2025/05/19 20:10:10.425138 (metrics) cpu: 0.025000 memory: 0.062716
+2025/05/19 20:10:10.425214 (filter-metrics) cpu: 0.025135 memory: 0.062717
+2025/05/19 20:10:10.525085 (metrics) cpu: 0.000000 memory: 0.062716
+2025/05/19 20:10:10.525193 (filter-metrics) cpu: 0.020108 memory: 0.062717
+2025/05/19 20:10:10.624415 (metrics) cpu: 0.026316 memory: 0.062716
+2025/05/19 20:10:10.624506 (filter-metrics) cpu: 0.020667 memory: 0.062717
+2025/05/19 20:10:10.724670 (metrics) cpu: 0.024390 memory: 0.062716
+2025/05/19 20:10:10.724817 (filter-metrics) cpu: 0.021002 memory: 0.062717
+2025/05/19 20:10:10.824707 (metrics) cpu: 0.025000 memory: 0.062716
+2025/05/19 20:10:10.824901 (filter-metrics) cpu: 0.021362 memory: 0.062717
+2025/05/19 20:10:10.926589 (metrics) cpu: 0.078947 memory: 0.062716
+2025/05/19 20:10:10.926677 (filter-metrics) cpu: 0.026545 memory: 0.062717
+2025/05/19 20:10:11.024699 (metrics) cpu: 0.050000 memory: 0.062716
+2025/05/19 20:10:11.024806 (filter-metrics) cpu: 0.028656 memory: 0.062717
+2025/05/19 20:10:11.125466 (metrics) cpu: 0.024390 memory: 0.062716
+2025/05/19 20:10:11.125606 (filter-metrics) cpu: 0.028389 memory: 0.062717
+2025/05/19 20:10:11.159925 (capacity) podCount = 0.000000
+2025/05/19 20:10:11.160182 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:11.160213 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:11.224518 (metrics) cpu: 0.000000 memory: 0.062716
+2025/05/19 20:10:11.224627 (filter-metrics) cpu: 0.026615 memory: 0.062716
+2025/05/19 20:10:11.325027 (metrics) cpu: 0.000000 memory: 0.062716
+2025/05/19 20:10:11.325154 (filter-metrics) cpu: 0.021292 memory: 0.062716
+2025/05/19 20:10:11.425051 (metrics) cpu: 0.025000 memory: 0.062716
+2025/05/19 20:10:11.425170 (filter-metrics) cpu: 0.021625 memory: 0.062716
+2025/05/19 20:10:11.525167 (metrics) cpu: 0.025000 memory: 0.062716
+2025/05/19 20:10:11.525278 (filter-metrics) cpu: 0.021929 memory: 0.062716
+2025/05/19 20:10:11.625418 (metrics) cpu: 0.000000 memory: 0.062716
+2025/05/19 20:10:11.625540 (filter-metrics) cpu: 0.020559 memory: 0.062716
+2025/05/19 20:10:11.724463 (metrics) cpu: 0.128205 memory: 0.062716
+2025/05/19 20:10:11.724575 (filter-metrics) cpu: 0.030247 memory: 0.062716
+2025/05/19 20:10:11.824777 (metrics) cpu: 0.025641 memory: 0.062716
+2025/05/19 20:10:11.824867 (filter-metrics) cpu: 0.029959 memory: 0.062716
+2025/05/19 20:10:11.925051 (metrics) cpu: 0.048780 memory: 0.062716
+2025/05/19 20:10:11.925141 (filter-metrics) cpu: 0.031653 memory: 0.062716
+2025/05/19 20:10:12.024459 (metrics) cpu: 0.000000 memory: 0.062716
+2025/05/19 20:10:12.024549 (filter-metrics) cpu: 0.029675 memory: 0.062716
+2025/05/19 20:10:12.125194 (metrics) cpu: 0.000000 memory: 0.062716
+2025/05/19 20:10:12.125514 (filter-metrics) cpu: 0.027820 memory: 0.062716
+2025/05/19 20:10:12.161029 (capacity) podCount = 0.000000
+2025/05/19 20:10:12.161081 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:12.161103 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:12.225292 (metrics) cpu: 0.000000 memory: 0.062716
+2025/05/19 20:10:12.225341 (filter-metrics) cpu: 0.022256 memory: 0.062716
+2025/05/19 20:10:12.324720 (metrics) cpu: 0.025000 memory: 0.062716
+2025/05/19 20:10:12.324800 (filter-metrics) cpu: 0.022503 memory: 0.062716
+2025/05/19 20:10:12.425595 (metrics) cpu: 0.025000 memory: 0.062716
+2025/05/19 20:10:12.425737 (filter-metrics) cpu: 0.022728 memory: 0.062716
+2025/05/19 20:10:12.525195 (metrics) cpu: 0.000000 memory: 0.062716
+2025/05/19 20:10:12.525271 (filter-metrics) cpu: 0.021307 memory: 0.062716
+2025/05/19 20:10:12.624366 (metrics) cpu: 0.026316 memory: 0.062716
+2025/05/19 20:10:12.624439 (filter-metrics) cpu: 0.021758 memory: 0.062716
+2025/05/19 20:10:12.724511 (metrics) cpu: 0.024390 memory: 0.062716
+2025/05/19 20:10:12.724553 (filter-metrics) cpu: 0.021995 memory: 0.062716
+2025/05/19 20:10:12.824810 (metrics) cpu: 0.000000 memory: 0.062716
+2025/05/19 20:10:12.824903 (filter-metrics) cpu: 0.020620 memory: 0.062716
+2025/05/19 20:10:12.925685 (metrics) cpu: 0.048780 memory: 0.062715
+2025/05/19 20:10:12.925798 (filter-metrics) cpu: 0.023155 memory: 0.062716
+2025/05/19 20:10:13.025216 (metrics) cpu: 0.000000 memory: 0.062715
+2025/05/19 20:10:13.025328 (filter-metrics) cpu: 0.021707 memory: 0.062716
+2025/05/19 20:10:13.124532 (metrics) cpu: 0.000000 memory: 0.062715
+2025/05/19 20:10:13.124609 (filter-metrics) cpu: 0.020351 memory: 0.062716
+2025/05/19 20:10:13.160891 (capacity) podCount = 0.000000
+2025/05/19 20:10:13.161081 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:13.161116 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:13.225268 (metrics) cpu: 0.025000 memory: 0.062715
+2025/05/19 20:10:13.225375 (filter-metrics) cpu: 0.020769 memory: 0.062716
+2025/05/19 20:10:13.325408 (metrics) cpu: 0.048780 memory: 0.062715
+2025/05/19 20:10:13.325499 (filter-metrics) cpu: 0.023290 memory: 0.062716
+2025/05/19 20:10:13.424565 (metrics) cpu: 0.000000 memory: 0.062715
+2025/05/19 20:10:13.424649 (filter-metrics) cpu: 0.021835 memory: 0.062716
+2025/05/19 20:10:13.524715 (metrics) cpu: 0.000000 memory: 0.062715
+2025/05/19 20:10:13.525018 (filter-metrics) cpu: 0.020470 memory: 0.062716
+2025/05/19 20:10:13.625046 (metrics) cpu: 0.025000 memory: 0.062715
+2025/05/19 20:10:13.625109 (filter-metrics) cpu: 0.020878 memory: 0.062716
+2025/05/19 20:10:13.724791 (metrics) cpu: 0.000000 memory: 0.062715
+2025/05/19 20:10:13.724858 (filter-metrics) cpu: 0.019573 memory: 0.062716
+2025/05/19 20:10:13.825274 (metrics) cpu: 0.025641 memory: 0.062715
+2025/05/19 20:10:13.825390 (filter-metrics) cpu: 0.020119 memory: 0.062716
+2025/05/19 20:10:13.925325 (metrics) cpu: 0.050000 memory: 0.062715
+2025/05/19 20:10:13.925446 (filter-metrics) cpu: 0.022808 memory: 0.062716
+2025/05/19 20:10:14.024710 (metrics) cpu: 0.051282 memory: 0.062715
+2025/05/19 20:10:14.024833 (filter-metrics) cpu: 0.025371 memory: 0.062716
+2025/05/19 20:10:14.125353 (metrics) cpu: 0.105263 memory: 0.062715
+2025/05/19 20:10:14.125444 (filter-metrics) cpu: 0.032561 memory: 0.062716
+2025/05/19 20:10:14.160587 (capacity) podCount = 0.000000
+2025/05/19 20:10:14.160715 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:14.160747 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:14.224668 (metrics) cpu: 0.073171 memory: 0.062715
+2025/05/19 20:10:14.224749 (filter-metrics) cpu: 0.036216 memory: 0.062716
+2025/05/19 20:10:14.325009 (metrics) cpu: 0.024390 memory: 0.062715
+2025/05/19 20:10:14.325138 (filter-metrics) cpu: 0.035477 memory: 0.062716
+2025/05/19 20:10:14.424585 (metrics) cpu: 0.000000 memory: 0.062715
+2025/05/19 20:10:14.424695 (filter-metrics) cpu: 0.033260 memory: 0.062716
+2025/05/19 20:10:14.525547 (metrics) cpu: 0.000000 memory: 0.062715
+2025/05/19 20:10:14.525680 (filter-metrics) cpu: 0.026608 memory: 0.062715
+2025/05/19 20:10:14.625350 (metrics) cpu: 0.050000 memory: 0.062715
+2025/05/19 20:10:14.625452 (filter-metrics) cpu: 0.028713 memory: 0.062715
+2025/05/19 20:10:14.725146 (metrics) cpu: 0.000000 memory: 0.062715
+2025/05/19 20:10:14.725256 (filter-metrics) cpu: 0.026918 memory: 0.062715
+2025/05/19 20:10:14.824604 (metrics) cpu: 0.025000 memory: 0.062714
+2025/05/19 20:10:14.824698 (filter-metrics) cpu: 0.026799 memory: 0.062715
+2025/05/19 20:10:14.925092 (metrics) cpu: 0.025641 memory: 0.062714
+2025/05/19 20:10:14.925187 (filter-metrics) cpu: 0.026567 memory: 0.062715
+2025/05/19 20:10:15.024489 (metrics) cpu: 0.153846 memory: 0.062714
+2025/05/19 20:10:15.024641 (filter-metrics) cpu: 0.038022 memory: 0.062715
+2025/05/19 20:10:15.125170 (metrics) cpu: 0.000000 memory: 0.062714
+2025/05/19 20:10:15.125302 (filter-metrics) cpu: 0.035646 memory: 0.062715
+2025/05/19 20:10:15.160711 (capacity) podCount = 0.000000
+2025/05/19 20:10:15.160824 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:15.160854 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:15.224707 (metrics) cpu: 0.050000 memory: 0.062714
+2025/05/19 20:10:15.224808 (filter-metrics) cpu: 0.036938 memory: 0.062715
+2025/05/19 20:10:15.325341 (metrics) cpu: 0.000000 memory: 0.062714
+2025/05/19 20:10:15.325471 (filter-metrics) cpu: 0.034629 memory: 0.062715
+2025/05/19 20:10:15.425329 (metrics) cpu: 0.000000 memory: 0.062714
+2025/05/19 20:10:15.425422 (filter-metrics) cpu: 0.032465 memory: 0.062715
+2025/05/19 20:10:15.524409 (metrics) cpu: 0.000000 memory: 0.062714
+2025/05/19 20:10:15.524509 (filter-metrics) cpu: 0.025972 memory: 0.062715
+2025/05/19 20:10:15.624714 (metrics) cpu: 0.025641 memory: 0.062714
+2025/05/19 20:10:15.624804 (filter-metrics) cpu: 0.025906 memory: 0.062715
+2025/05/19 20:10:15.725412 (metrics) cpu: 0.024390 memory: 0.062714
+2025/05/19 20:10:15.725517 (filter-metrics) cpu: 0.025603 memory: 0.062714
+2025/05/19 20:10:15.825335 (metrics) cpu: 0.025000 memory: 0.062714
+2025/05/19 20:10:15.825423 (filter-metrics) cpu: 0.025482 memory: 0.062714
+2025/05/19 20:10:15.924520 (metrics) cpu: 0.076923 memory: 0.062714
+2025/05/19 20:10:15.924605 (filter-metrics) cpu: 0.030112 memory: 0.062714
+2025/05/19 20:10:16.024801 (metrics) cpu: 0.025641 memory: 0.062714
+2025/05/19 20:10:16.024934 (filter-metrics) cpu: 0.029832 memory: 0.062714
+2025/05/19 20:10:16.125288 (metrics) cpu: 0.025000 memory: 0.062714
+2025/05/19 20:10:16.125426 (filter-metrics) cpu: 0.029530 memory: 0.062714
+2025/05/19 20:10:16.160108 (capacity) podCount = 0.000000
+2025/05/19 20:10:16.160230 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:16.160286 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:16.225630 (metrics) cpu: 0.025000 memory: 0.062714
+2025/05/19 20:10:16.225748 (filter-metrics) cpu: 0.028624 memory: 0.062714
+2025/05/19 20:10:16.325511 (metrics) cpu: 0.025000 memory: 0.062714
+2025/05/19 20:10:16.325632 (filter-metrics) cpu: 0.027899 memory: 0.062714
+2025/05/19 20:10:16.425530 (metrics) cpu: 0.000000 memory: 0.062714
+2025/05/19 20:10:16.425666 (filter-metrics) cpu: 0.022320 memory: 0.062714
+2025/05/19 20:10:16.525526 (metrics) cpu: 0.000000 memory: 0.062714
+2025/05/19 20:10:16.525676 (filter-metrics) cpu: 0.017856 memory: 0.062714
+2025/05/19 20:10:16.625693 (metrics) cpu: 0.025641 memory: 0.062714
+2025/05/19 20:10:16.625801 (filter-metrics) cpu: 0.018556 memory: 0.062714
+2025/05/19 20:10:16.725646 (metrics) cpu: 0.025000 memory: 0.062714
+2025/05/19 20:10:16.725774 (filter-metrics) cpu: 0.019136 memory: 0.062714
+2025/05/19 20:10:16.824769 (metrics) cpu: 0.048780 memory: 0.062714
+2025/05/19 20:10:16.824876 (filter-metrics) cpu: 0.021804 memory: 0.062714
+2025/05/19 20:10:16.924701 (metrics) cpu: 0.025641 memory: 0.062714
+2025/05/19 20:10:16.924810 (filter-metrics) cpu: 0.022150 memory: 0.062714
+2025/05/19 20:10:17.024876 (metrics) cpu: 0.000000 memory: 0.062714
+2025/05/19 20:10:17.025046 (filter-metrics) cpu: 0.020765 memory: 0.062714
+2025/05/19 20:10:17.125180 (metrics) cpu: 0.025000 memory: 0.062714
+2025/05/19 20:10:17.125265 (filter-metrics) cpu: 0.021146 memory: 0.062714
+2025/05/19 20:10:17.160294 (capacity) podCount = 0.000000
+2025/05/19 20:10:17.160402 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:17.160426 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:17.224347 (metrics) cpu: 0.026316 memory: 0.062713
+2025/05/19 20:10:17.224429 (filter-metrics) cpu: 0.021612 memory: 0.062714
+2025/05/19 20:10:17.324463 (metrics) cpu: 0.000000 memory: 0.062713
+2025/05/19 20:10:17.324575 (filter-metrics) cpu: 0.020261 memory: 0.062714
+2025/05/19 20:10:17.424663 (metrics) cpu: 0.025000 memory: 0.062713
+2025/05/19 20:10:17.424784 (filter-metrics) cpu: 0.020687 memory: 0.062714
+2025/05/19 20:10:17.524818 (metrics) cpu: 0.000000 memory: 0.062713
+2025/05/19 20:10:17.524997 (filter-metrics) cpu: 0.019394 memory: 0.062714
+2025/05/19 20:10:17.625554 (metrics) cpu: 0.000000 memory: 0.062713
+2025/05/19 20:10:17.625690 (filter-metrics) cpu: 0.018182 memory: 0.062714
+2025/05/19 20:10:17.724880 (metrics) cpu: 0.025000 memory: 0.062713
+2025/05/19 20:10:17.725078 (filter-metrics) cpu: 0.018796 memory: 0.062714
+2025/05/19 20:10:17.825139 (metrics) cpu: 0.000000 memory: 0.062713
+2025/05/19 20:10:17.825253 (filter-metrics) cpu: 0.017621 memory: 0.062714
+2025/05/19 20:10:17.924141 (metrics) cpu: 0.025641 memory: 0.062713
+2025/05/19 20:10:17.924215 (filter-metrics) cpu: 0.018343 memory: 0.062714
+2025/05/19 20:10:18.024763 (metrics) cpu: 0.048780 memory: 0.062713
+2025/05/19 20:10:18.024899 (filter-metrics) cpu: 0.021082 memory: 0.062714
+2025/05/19 20:10:18.124564 (metrics) cpu: 0.000000 memory: 0.062713
+2025/05/19 20:10:18.124684 (filter-metrics) cpu: 0.019765 memory: 0.062714
+2025/05/19 20:10:18.160765 (capacity) podCount = 0.000000
+2025/05/19 20:10:18.160861 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:18.160896 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:18.224847 (metrics) cpu: 0.048780 memory: 0.062713
+2025/05/19 20:10:18.225009 (filter-metrics) cpu: 0.022376 memory: 0.062714
+2025/05/19 20:10:18.325152 (metrics) cpu: 0.000000 memory: 0.062713
+2025/05/19 20:10:18.325259 (filter-metrics) cpu: 0.020978 memory: 0.062714
+2025/05/19 20:10:18.424902 (metrics) cpu: 0.000000 memory: 0.062713
+2025/05/19 20:10:18.425093 (filter-metrics) cpu: 0.019666 memory: 0.062714
+2025/05/19 20:10:18.525815 (metrics) cpu: 0.048780 memory: 0.062713
+2025/05/19 20:10:18.525986 (filter-metrics) cpu: 0.022287 memory: 0.062714
+2025/05/19 20:10:18.624636 (metrics) cpu: 0.026316 memory: 0.062713
+2025/05/19 20:10:18.624755 (filter-metrics) cpu: 0.022649 memory: 0.062714
+2025/05/19 20:10:18.725606 (metrics) cpu: 0.024390 memory: 0.062713
+2025/05/19 20:10:18.725720 (filter-metrics) cpu: 0.022806 memory: 0.062714
+2025/05/19 20:10:18.825440 (metrics) cpu: 0.000000 memory: 0.062713
+2025/05/19 20:10:18.825579 (filter-metrics) cpu: 0.021381 memory: 0.062713
+2025/05/19 20:10:18.925215 (metrics) cpu: 0.050000 memory: 0.062713
+2025/05/19 20:10:18.925375 (filter-metrics) cpu: 0.023956 memory: 0.062713
+2025/05/19 20:10:19.024858 (metrics) cpu: 0.025000 memory: 0.062713
+2025/05/19 20:10:19.025049 (filter-metrics) cpu: 0.024050 memory: 0.062713
+2025/05/19 20:10:19.125010 (metrics) cpu: 0.000000 memory: 0.062713
+2025/05/19 20:10:19.125062 (filter-metrics) cpu: 0.022547 memory: 0.062713
+2025/05/19 20:10:19.161018 (capacity) podCount = 0.000000
+2025/05/19 20:10:19.161104 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:19.161136 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:19.225275 (metrics) cpu: 0.078947 memory: 0.062713
+2025/05/19 20:10:19.225400 (filter-metrics) cpu: 0.027623 memory: 0.062713
+2025/05/19 20:10:19.325209 (metrics) cpu: 0.000000 memory: 0.062713
+2025/05/19 20:10:19.325335 (filter-metrics) cpu: 0.025897 memory: 0.062713
+2025/05/19 20:10:19.424378 (metrics) cpu: 0.075000 memory: 0.062713
+2025/05/19 20:10:19.424456 (filter-metrics) cpu: 0.030316 memory: 0.062713
+2025/05/19 20:10:19.525086 (metrics) cpu: 0.324324 memory: 0.062708
+2025/05/19 20:10:19.525194 (filter-metrics) cpu: 0.056777 memory: 0.062713
+2025/05/19 20:10:19.624819 (metrics) cpu: 0.050000 memory: 0.062708
+2025/05/19 20:10:19.625033 (filter-metrics) cpu: 0.056353 memory: 0.062713
+2025/05/19 20:10:19.726536 (metrics) cpu: 0.025641 memory: 0.062708
+2025/05/19 20:10:19.726626 (filter-metrics) cpu: 0.054434 memory: 0.062712
+2025/05/19 20:10:19.784340 (container) ContainerCreate: detected new container: 2025-05-19T20:10:19.778116726Z
+2025/05/19 20:10:19.784422 (cache) received an event: {containerID:94a6d05926dfd53dbd652018e0631635893c6b0dc53316b9891aa1305f455c71 podID:b2c12b9e-5608-48fc-9811-7585932eab03 topic:0}
+2025/05/19 20:10:19.821119 (container) ContainerCreate: detected new container: 2025-05-19T20:10:19.816333326Z
+2025/05/19 20:10:19.821213 (cache) received an event: {containerID:8494c7bfb8e19d990c7f0d2c6c34f0099461de0c5759b6dc48046e98a11a4821 podID:e6e0986d-4edb-41bf-b5ca-875d9f7bace1 topic:0}
+2025/05/19 20:10:19.825699 (metrics) cpu: 0.692308 memory: 0.062761
+2025/05/19 20:10:19.825968 (filter-metrics) cpu: 0.111842 memory: 0.062716
+2025/05/19 20:10:19.846319 (container) ContainerCreate: detected new container: 2025-05-19T20:10:19.842755214Z
+2025/05/19 20:10:19.846369 (cache) received an event: {containerID:dc9589de287d05993b8f51ae6aee5046ab9239f69d440a8ea9431cba8470c5b3 podID:edd6df76-599c-4161-94f5-794de8678ce5 topic:0}
+2025/05/19 20:10:19.848759 (container) ContainerCreate: detected new container: 2025-05-19T20:10:19.84603606Z
+2025/05/19 20:10:19.848777 (cache) received an event: {containerID:b2286e0b2d8288c32a52534febbedf731ebcd333f0b34d6ad0b5642e678f44d6 podID:92be8162-0ac4-499e-a589-701a508f60a7 topic:0}
+2025/05/19 20:10:19.851161 (container) ContainerCreate: detected new container: 2025-05-19T20:10:19.849571595Z
+2025/05/19 20:10:19.851201 (cache) received an event: {containerID:9542ede5fd4f71b0cb36228c4a79aea40dc896f0a6339a400e43a25d56c05a1d podID:d490604d-7440-4c27-b790-990dd19159bb topic:0}
+2025/05/19 20:10:19.925097 (metrics) cpu: 0.894737 memory: 0.063779
+2025/05/19 20:10:19.925167 (filter-metrics) cpu: 0.182303 memory: 0.062812
+2025/05/19 20:10:20.025232 (metrics) cpu: 0.975610 memory: 0.064241
+2025/05/19 20:10:20.025334 (filter-metrics) cpu: 0.446474 memory: 0.063288
+2025/05/19 20:10:20.125056 (metrics) cpu: 0.973684 memory: 0.064862
+2025/05/19 20:10:20.125131 (filter-metrics) cpu: 0.622035 memory: 0.063812
+2025/05/19 20:10:20.160743 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:20.160833 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:20.224108 (metrics) cpu: 0.950000 memory: 0.067450
+2025/05/19 20:10:20.224190 (filter-metrics) cpu: 0.731247 memory: 0.065023
+2025/05/19 20:10:20.326913 (metrics) cpu: 0.948718 memory: 0.069804
+2025/05/19 20:10:20.327051 (filter-metrics) cpu: 0.803665 memory: 0.066615
+2025/05/19 20:10:20.357445 (container) TaskStart: detected task start: 2025-05-19T20:10:20.347870402Z
+2025/05/19 20:10:20.357504 (cache) received an event: {containerID:8494c7bfb8e19d990c7f0d2c6c34f0099461de0c5759b6dc48046e98a11a4821 podID:e6e0986d-4edb-41bf-b5ca-875d9f7bace1 topic:1}
+2025/05/19 20:10:20.389198 (container) TaskStart: detected task start: 2025-05-19T20:10:20.381821656Z
+2025/05/19 20:10:20.389262 (cache) received an event: {containerID:b2286e0b2d8288c32a52534febbedf731ebcd333f0b34d6ad0b5642e678f44d6 podID:92be8162-0ac4-499e-a589-701a508f60a7 topic:1}
+2025/05/19 20:10:20.408176 (container) TaskStart: detected task start: 2025-05-19T20:10:20.404267872Z
+2025/05/19 20:10:20.408240 (cache) received an event: {containerID:dc9589de287d05993b8f51ae6aee5046ab9239f69d440a8ea9431cba8470c5b3 podID:edd6df76-599c-4161-94f5-794de8678ce5 topic:1}
+2025/05/19 20:10:20.418825 (container) TaskStart: detected task start: 2025-05-19T20:10:20.414914589Z
+2025/05/19 20:10:20.418863 (cache) received an event: {containerID:94a6d05926dfd53dbd652018e0631635893c6b0dc53316b9891aa1305f455c71 podID:b2c12b9e-5608-48fc-9811-7585932eab03 topic:1}
+2025/05/19 20:10:20.424908 (metrics) cpu: 0.974359 memory: 0.067997
+2025/05/19 20:10:20.425055 (filter-metrics) cpu: 0.860506 memory: 0.067075
+2025/05/19 20:10:20.427261 (container) ContainerCreate: detected new container: 2025-05-19T20:10:20.424361634Z
+2025/05/19 20:10:20.428004 (cache) received an event: {containerID:cc0f1e0542b5f25ffe2bcfd64af9eefc94810d3ef11a038a6a2d8a93421b3235 podID:e6e0986d-4edb-41bf-b5ca-875d9f7bace1 topic:0}
+2025/05/19 20:10:20.456230 (container) ContainerCreate: detected new container: 2025-05-19T20:10:20.45442321Z
+2025/05/19 20:10:20.456274 (cache) received an event: {containerID:831dc72ebe0d8568992129367f2de2a118614cefffd17b155d17391910a83bb4 podID:92be8162-0ac4-499e-a589-701a508f60a7 topic:0}
+2025/05/19 20:10:20.478207 (container) TaskStart: detected task start: 2025-05-19T20:10:20.471252708Z
+2025/05/19 20:10:20.478281 (cache) received an event: {containerID:9542ede5fd4f71b0cb36228c4a79aea40dc896f0a6339a400e43a25d56c05a1d podID:d490604d-7440-4c27-b790-990dd19159bb topic:1}
+2025/05/19 20:10:20.480651 (container) ContainerCreate: detected new container: 2025-05-19T20:10:20.474987841Z
+2025/05/19 20:10:20.480674 (cache) received an event: {containerID:2fda7bcfa55231b6b6ea25b0099c878dc49826f74af123b5eb06530309670ab9 podID:edd6df76-599c-4161-94f5-794de8678ce5 topic:0}
+2025/05/19 20:10:20.526586 (metrics) cpu: 0.891892 memory: 0.068488
+2025/05/19 20:10:20.526678 (filter-metrics) cpu: 0.870958 memory: 0.067546
+2025/05/19 20:10:20.544818 (container) ContainerCreate: detected new container: 2025-05-19T20:10:20.540633794Z
+2025/05/19 20:10:20.544879 (cache) received an event: {containerID:e6ec7870907a53c82f94436f7579f9db11b4535471442dc64b446ada147824e4 podID:d490604d-7440-4c27-b790-990dd19159bb topic:0}
+2025/05/19 20:10:20.555100 (container) ContainerCreate: detected new container: 2025-05-19T20:10:20.552371433Z
+2025/05/19 20:10:20.555138 (cache) received an event: {containerID:71ee4a80b57bc42b18b7b7f908e4e0041b3b11eebc66847d85b0ad3c9b6663e3 podID:b2c12b9e-5608-48fc-9811-7585932eab03 topic:0}
+2025/05/19 20:10:20.579433 (cache) event prevented trigger
+2025/05/19 20:10:20.626480 (metrics) cpu: 0.950000 memory: 0.069517
+2025/05/19 20:10:20.626551 (filter-metrics) cpu: 0.897279 memory: 0.068202
+2025/05/19 20:10:20.724462 (metrics) cpu: 1.000000 memory: 0.070389
+2025/05/19 20:10:20.724843 (filter-metrics) cpu: 0.931485 memory: 0.068930
+2025/05/19 20:10:20.796099 (container) TaskStart: detected task start: 2025-05-19T20:10:20.772981442Z
+2025/05/19 20:10:20.796192 (cache) received an event: {containerID:2fda7bcfa55231b6b6ea25b0099c878dc49826f74af123b5eb06530309670ab9 podID:edd6df76-599c-4161-94f5-794de8678ce5 topic:1}
+2025/05/19 20:10:20.800555 (container) TaskStart: detected task start: 2025-05-19T20:10:20.78291581Z
+2025/05/19 20:10:20.800757 (cache) received an event: {containerID:831dc72ebe0d8568992129367f2de2a118614cefffd17b155d17391910a83bb4 podID:92be8162-0ac4-499e-a589-701a508f60a7 topic:1}
+2025/05/19 20:10:20.810910 (container) TaskStart: detected task start: 2025-05-19T20:10:20.799278515Z
+2025/05/19 20:10:20.811012 (cache) received an event: {containerID:cc0f1e0542b5f25ffe2bcfd64af9eefc94810d3ef11a038a6a2d8a93421b3235 podID:e6e0986d-4edb-41bf-b5ca-875d9f7bace1 topic:1}
+2025/05/19 20:10:20.824503 (metrics) cpu: 0.975000 memory: 0.070734
+2025/05/19 20:10:20.824596 (filter-metrics) cpu: 0.945975 memory: 0.069531
+2025/05/19 20:10:20.913704 (cache) event prevented trigger
+2025/05/19 20:10:20.924882 (metrics) cpu: 0.975000 memory: 0.072748
+2025/05/19 20:10:20.925005 (filter-metrics) cpu: 0.955641 memory: 0.070602
+2025/05/19 20:10:21.001386 (container) TaskStart: detected task start: 2025-05-19T20:10:20.988577019Z
+2025/05/19 20:10:21.001745 (cache) received an event: {containerID:e6ec7870907a53c82f94436f7579f9db11b4535471442dc64b446ada147824e4 podID:d490604d-7440-4c27-b790-990dd19159bb topic:1}
+2025/05/19 20:10:21.012887 (container) TaskStart: detected task start: 2025-05-19T20:10:21.007067239Z
+2025/05/19 20:10:21.012921 (cache) received an event: {containerID:71ee4a80b57bc42b18b7b7f908e4e0041b3b11eebc66847d85b0ad3c9b6663e3 podID:b2c12b9e-5608-48fc-9811-7585932eab03 topic:1}
+2025/05/19 20:10:21.024717 (metrics) cpu: 1.000000 memory: 0.072748
+2025/05/19 20:10:21.025086 (filter-metrics) cpu: 0.970412 memory: 0.071317
+2025/05/19 20:10:21.113912 (cache) running signal and cost generation
+2025/05/19 20:10:21.114224 (capacity) podCount = 5.000000
+2025/05/19 20:10:21.114347 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:21.114361 (cache) signal = 0.0000
+2025/05/19 20:10:21.114371 (cache) per-pod cost = NaN
+2025/05/19 20:10:21.114414 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:21.125309 (metrics) cpu: 1.000000 memory: 0.072943
+2025/05/19 20:10:21.125366 (filter-metrics) cpu: 0.980265 memory: 0.071858
+2025/05/19 20:10:21.160688 (capacity) podCount = 5.000000
+2025/05/19 20:10:21.160783 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:21.160808 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:21.224914 (metrics) cpu: 1.000000 memory: 0.073687
+2025/05/19 20:10:21.226045 (filter-metrics) cpu: 0.986837 memory: 0.072468
+2025/05/19 20:10:21.326774 (metrics) cpu: 1.000000 memory: 0.073687
+2025/05/19 20:10:21.327016 (filter-metrics) cpu: 0.991220 memory: 0.072874
+2025/05/19 20:10:21.426699 (metrics) cpu: 1.000000 memory: 0.073687
+2025/05/19 20:10:21.426770 (filter-metrics) cpu: 0.994144 memory: 0.073145
+2025/05/19 20:10:21.524801 (metrics) cpu: 1.000000 memory: 0.073687
+2025/05/19 20:10:21.527011 (filter-metrics) cpu: 0.996094 memory: 0.073325
+2025/05/19 20:10:21.625278 (metrics) cpu: 1.000000 memory: 0.073687
+2025/05/19 20:10:21.625374 (filter-metrics) cpu: 0.997395 memory: 0.073446
+2025/05/19 20:10:21.725335 (metrics) cpu: 1.000000 memory: 0.073687
+2025/05/19 20:10:21.725584 (filter-metrics) cpu: 0.998262 memory: 0.073526
+2025/05/19 20:10:21.827504 (metrics) cpu: 1.000000 memory: 0.073658
+2025/05/19 20:10:21.827622 (filter-metrics) cpu: 0.998841 memory: 0.073570
+2025/05/19 20:10:21.925025 (metrics) cpu: 1.000000 memory: 0.073658
+2025/05/19 20:10:21.927032 (filter-metrics) cpu: 0.999227 memory: 0.073600
+2025/05/19 20:10:22.024987 (metrics) cpu: 1.000000 memory: 0.073658
+2025/05/19 20:10:22.025221 (filter-metrics) cpu: 0.999484 memory: 0.073619
+2025/05/19 20:10:22.127718 (metrics) cpu: 1.000000 memory: 0.073658
+2025/05/19 20:10:22.128229 (filter-metrics) cpu: 0.999656 memory: 0.073632
+2025/05/19 20:10:22.160342 (capacity) podCount = 5.000000
+2025/05/19 20:10:22.160434 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:22.160461 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:22.224464 (metrics) cpu: 1.000000 memory: 0.073658
+2025/05/19 20:10:22.224628 (filter-metrics) cpu: 0.999771 memory: 0.073641
+2025/05/19 20:10:22.327095 (metrics) cpu: 1.000000 memory: 0.073658
+2025/05/19 20:10:22.327177 (filter-metrics) cpu: 0.999847 memory: 0.073647
+2025/05/19 20:10:22.425031 (metrics) cpu: 1.000000 memory: 0.073658
+2025/05/19 20:10:22.425677 (filter-metrics) cpu: 0.999898 memory: 0.073651
+2025/05/19 20:10:22.524693 (metrics) cpu: 1.000000 memory: 0.073658
+2025/05/19 20:10:22.524767 (filter-metrics) cpu: 0.999932 memory: 0.073653
+2025/05/19 20:10:22.625560 (metrics) cpu: 1.000000 memory: 0.073658
+2025/05/19 20:10:22.625679 (filter-metrics) cpu: 0.999955 memory: 0.073655
+2025/05/19 20:10:22.726849 (metrics) cpu: 1.000000 memory: 0.073658
+2025/05/19 20:10:22.727020 (filter-metrics) cpu: 0.999970 memory: 0.073656
+2025/05/19 20:10:22.828561 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:22.828630 (filter-metrics) cpu: 0.999980 memory: 0.073657
+2025/05/19 20:10:22.924591 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:22.924678 (filter-metrics) cpu: 0.999987 memory: 0.073657
+2025/05/19 20:10:23.024340 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:23.024440 (filter-metrics) cpu: 0.999991 memory: 0.073657
+2025/05/19 20:10:23.124439 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:23.124537 (filter-metrics) cpu: 0.999994 memory: 0.073657
+2025/05/19 20:10:23.160449 (capacity) podCount = 5.000000
+2025/05/19 20:10:23.160515 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:23.160703 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:23.226627 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:23.226687 (filter-metrics) cpu: 0.999996 memory: 0.073657
+2025/05/19 20:10:23.324293 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:23.324382 (filter-metrics) cpu: 0.999997 memory: 0.073657
+2025/05/19 20:10:23.425490 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:23.425579 (filter-metrics) cpu: 0.999998 memory: 0.073657
+2025/05/19 20:10:23.524920 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:23.527220 (filter-metrics) cpu: 0.999999 memory: 0.073657
+2025/05/19 20:10:23.625075 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:23.625372 (filter-metrics) cpu: 0.999999 memory: 0.073657
+2025/05/19 20:10:23.724389 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:23.724427 (filter-metrics) cpu: 0.999999 memory: 0.073657
+2025/05/19 20:10:23.825147 (metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:23.826401 (filter-metrics) cpu: 1.000000 memory: 0.073657
+2025/05/19 20:10:23.924493 (metrics) cpu: 1.000000 memory: 0.072742
+2025/05/19 20:10:23.924599 (filter-metrics) cpu: 1.000000 memory: 0.073600
+2025/05/19 20:10:24.024443 (metrics) cpu: 1.000000 memory: 0.072768
+2025/05/19 20:10:24.024499 (filter-metrics) cpu: 1.000000 memory: 0.073548
+2025/05/19 20:10:24.126168 (metrics) cpu: 1.000000 memory: 0.072768
+2025/05/19 20:10:24.126425 (filter-metrics) cpu: 1.000000 memory: 0.073499
+2025/05/19 20:10:24.160301 (capacity) podCount = 5.000000
+2025/05/19 20:10:24.160384 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:24.160409 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:24.228050 (metrics) cpu: 1.000000 memory: 0.072768
+2025/05/19 20:10:24.228120 (filter-metrics) cpu: 1.000000 memory: 0.073454
+2025/05/19 20:10:24.325169 (metrics) cpu: 1.000000 memory: 0.072768
+2025/05/19 20:10:24.325291 (filter-metrics) cpu: 1.000000 memory: 0.073411
+2025/05/19 20:10:24.424767 (metrics) cpu: 1.000000 memory: 0.072768
+2025/05/19 20:10:24.424856 (filter-metrics) cpu: 1.000000 memory: 0.073371
+2025/05/19 20:10:24.524706 (metrics) cpu: 1.000000 memory: 0.072768
+2025/05/19 20:10:24.524830 (filter-metrics) cpu: 1.000000 memory: 0.073333
+2025/05/19 20:10:24.624741 (metrics) cpu: 1.000000 memory: 0.072768
+2025/05/19 20:10:24.624873 (filter-metrics) cpu: 1.000000 memory: 0.073298
+2025/05/19 20:10:24.724820 (metrics) cpu: 1.000000 memory: 0.072768
+2025/05/19 20:10:24.724994 (filter-metrics) cpu: 1.000000 memory: 0.073264
+2025/05/19 20:10:24.824763 (metrics) cpu: 1.000000 memory: 0.072767
+2025/05/19 20:10:24.824872 (filter-metrics) cpu: 1.000000 memory: 0.073233
+2025/05/19 20:10:24.924767 (metrics) cpu: 1.000000 memory: 0.072767
+2025/05/19 20:10:24.924862 (filter-metrics) cpu: 1.000000 memory: 0.073204
+2025/05/19 20:10:25.025292 (metrics) cpu: 1.000000 memory: 0.072767
+2025/05/19 20:10:25.025444 (filter-metrics) cpu: 1.000000 memory: 0.073177
+2025/05/19 20:10:25.127176 (metrics) cpu: 1.000000 memory: 0.072798
+2025/05/19 20:10:25.127297 (filter-metrics) cpu: 1.000000 memory: 0.073153
+2025/05/19 20:10:25.160289 (capacity) podCount = 5.000000
+2025/05/19 20:10:25.160366 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:25.160398 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:25.224660 (metrics) cpu: 1.000000 memory: 0.072798
+2025/05/19 20:10:25.224869 (filter-metrics) cpu: 1.000000 memory: 0.073131
+2025/05/19 20:10:25.324617 (metrics) cpu: 1.000000 memory: 0.072798
+2025/05/19 20:10:25.324700 (filter-metrics) cpu: 1.000000 memory: 0.073110
+2025/05/19 20:10:25.425055 (metrics) cpu: 1.000000 memory: 0.072798
+2025/05/19 20:10:25.425142 (filter-metrics) cpu: 1.000000 memory: 0.073091
+2025/05/19 20:10:25.525086 (metrics) cpu: 1.000000 memory: 0.072798
+2025/05/19 20:10:25.525159 (filter-metrics) cpu: 1.000000 memory: 0.073072
+2025/05/19 20:10:25.624613 (metrics) cpu: 1.000000 memory: 0.072798
+2025/05/19 20:10:25.624821 (filter-metrics) cpu: 1.000000 memory: 0.073055
+2025/05/19 20:10:25.724671 (metrics) cpu: 1.000000 memory: 0.072798
+2025/05/19 20:10:25.724744 (filter-metrics) cpu: 1.000000 memory: 0.073039
+2025/05/19 20:10:25.824573 (metrics) cpu: 1.000000 memory: 0.072797
+2025/05/19 20:10:25.825989 (filter-metrics) cpu: 1.000000 memory: 0.073024
+2025/05/19 20:10:25.924926 (metrics) cpu: 1.000000 memory: 0.072797
+2025/05/19 20:10:25.925021 (filter-metrics) cpu: 1.000000 memory: 0.073010
+2025/05/19 20:10:26.025495 (metrics) cpu: 1.000000 memory: 0.070680
+2025/05/19 20:10:26.027455 (filter-metrics) cpu: 1.000000 memory: 0.072864
+2025/05/19 20:10:26.047995 (container) TaskExit: detected task exit: 2025-05-19T20:10:26.029708653Z
+2025/05/19 20:10:26.048065 (cache) received an event: {containerID:cc0f1e0542b5f25ffe2bcfd64af9eefc94810d3ef11a038a6a2d8a93421b3235 podID:e6e0986d-4edb-41bf-b5ca-875d9f7bace1 topic:2}
+2025/05/19 20:10:26.125080 (metrics) cpu: 1.000000 memory: 0.071156
+2025/05/19 20:10:26.126077 (filter-metrics) cpu: 1.000000 memory: 0.072757
+2025/05/19 20:10:26.160383 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:26.160466 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:0, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:26.225117 (metrics) cpu: 1.000000 memory: 0.071156
+2025/05/19 20:10:26.225178 (filter-metrics) cpu: 1.000000 memory: 0.072657
+2025/05/19 20:10:26.249034 (container) TaskDelete: detected task delete: 2025-05-19T20:10:26.242796117Z
+2025/05/19 20:10:26.249099 (cache) received an event: {containerID:cc0f1e0542b5f25ffe2bcfd64af9eefc94810d3ef11a038a6a2d8a93421b3235 podID:e6e0986d-4edb-41bf-b5ca-875d9f7bace1 topic:3}
+2025/05/19 20:10:26.324726 (metrics) cpu: 1.000000 memory: 0.071187
+2025/05/19 20:10:26.324825 (filter-metrics) cpu: 1.000000 memory: 0.072565
+2025/05/19 20:10:26.425834 (metrics) cpu: 1.000000 memory: 0.071187
+2025/05/19 20:10:26.425918 (filter-metrics) cpu: 1.000000 memory: 0.072479
+2025/05/19 20:10:26.474649 (container) TaskExit: detected task exit: 2025-05-19T20:10:26.470138078Z
+2025/05/19 20:10:26.474710 (cache) received an event: {containerID:831dc72ebe0d8568992129367f2de2a118614cefffd17b155d17391910a83bb4 podID:92be8162-0ac4-499e-a589-701a508f60a7 topic:2}
+2025/05/19 20:10:26.525934 (metrics) cpu: 0.975000 memory: 0.070740
+2025/05/19 20:10:26.526160 (filter-metrics) cpu: 0.998437 memory: 0.072370
+2025/05/19 20:10:26.550082 (cache) event prevented trigger
+2025/05/19 20:10:26.588394 (container) TaskDelete: detected task delete: 2025-05-19T20:10:26.581509987Z
+2025/05/19 20:10:26.590000 (cache) received an event: {containerID:831dc72ebe0d8568992129367f2de2a118614cefffd17b155d17391910a83bb4 podID:92be8162-0ac4-499e-a589-701a508f60a7 topic:3}
+2025/05/19 20:10:26.624549 (metrics) cpu: 0.947368 memory: 0.070740
+2025/05/19 20:10:26.624638 (filter-metrics) cpu: 0.995246 memory: 0.072044
+2025/05/19 20:10:26.703637 (container) TaskExit: detected task exit: 2025-05-19T20:10:26.694209117Z
+2025/05/19 20:10:26.705750 (cache) received an event: {containerID:2fda7bcfa55231b6b6ea25b0099c878dc49826f74af123b5eb06530309670ab9 podID:edd6df76-599c-4161-94f5-794de8678ce5 topic:2}
+2025/05/19 20:10:26.725981 (metrics) cpu: 0.829268 memory: 0.069999
+2025/05/19 20:10:26.726040 (filter-metrics) cpu: 0.962050 memory: 0.071635
+2025/05/19 20:10:26.805740 (container) TaskDelete: detected task delete: 2025-05-19T20:10:26.797229333Z
+2025/05/19 20:10:26.805806 (cache) received an event: {containerID:2fda7bcfa55231b6b6ea25b0099c878dc49826f74af123b5eb06530309670ab9 podID:edd6df76-599c-4161-94f5-794de8678ce5 topic:3}
+2025/05/19 20:10:26.824929 (metrics) cpu: 0.783784 memory: 0.069753
+2025/05/19 20:10:26.825021 (filter-metrics) cpu: 0.926397 memory: 0.071259
+2025/05/19 20:10:26.844142 (container) TaskExit: detected task exit: 2025-05-19T20:10:26.838908056Z
+2025/05/19 20:10:26.844190 (cache) received an event: {containerID:e6ec7870907a53c82f94436f7579f9db11b4535471442dc64b446ada147824e4 podID:d490604d-7440-4c27-b790-990dd19159bb topic:2}
+2025/05/19 20:10:26.860875 (container) TaskExit: detected task exit: 2025-05-19T20:10:26.855885842Z
+2025/05/19 20:10:26.860987 (cache) received an event: {containerID:71ee4a80b57bc42b18b7b7f908e4e0041b3b11eebc66847d85b0ad3c9b6663e3 podID:b2c12b9e-5608-48fc-9811-7585932eab03 topic:2}
+2025/05/19 20:10:26.924681 (metrics) cpu: 0.729730 memory: 0.069346
+2025/05/19 20:10:26.924816 (filter-metrics) cpu: 0.887063 memory: 0.070876
+2025/05/19 20:10:26.941119 (container) TaskDelete: detected task delete: 2025-05-19T20:10:26.935725876Z
+2025/05/19 20:10:26.941191 (cache) received an event: {containerID:e6ec7870907a53c82f94436f7579f9db11b4535471442dc64b446ada147824e4 podID:d490604d-7440-4c27-b790-990dd19159bb topic:3}
+2025/05/19 20:10:26.942439 (container) TaskDelete: detected task delete: 2025-05-19T20:10:26.935879042Z
+2025/05/19 20:10:26.942481 (cache) received an event: {containerID:71ee4a80b57bc42b18b7b7f908e4e0041b3b11eebc66847d85b0ad3c9b6663e3 podID:b2c12b9e-5608-48fc-9811-7585932eab03 topic:3}
+2025/05/19 20:10:27.024294 (metrics) cpu: 0.384615 memory: 0.069368
+2025/05/19 20:10:27.024399 (filter-metrics) cpu: 0.786574 memory: 0.070575
+2025/05/19 20:10:27.125356 (metrics) cpu: 0.100000 memory: 0.069368
+2025/05/19 20:10:27.125455 (filter-metrics) cpu: 0.649259 memory: 0.070333
+2025/05/19 20:10:27.160657 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:27.160731 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:27.225200 (metrics) cpu: 0.162162 memory: 0.069397
+2025/05/19 20:10:27.225317 (filter-metrics) cpu: 0.551840 memory: 0.070146
+2025/05/19 20:10:27.243274 (cache) running signal and cost generation
+2025/05/19 20:10:27.243426 (capacity) podCount = 5.000000
+2025/05/19 20:10:27.243599 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:27.243608 (cache) signal = +Inf
+2025/05/19 20:10:27.243618 (cache) per-pod cost = NaN
+2025/05/19 20:10:27.243640 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:27.325138 (metrics) cpu: 0.073171 memory: 0.069397
+2025/05/19 20:10:27.325189 (filter-metrics) cpu: 0.456106 memory: 0.069996
+2025/05/19 20:10:27.425149 (metrics) cpu: 0.000000 memory: 0.069397
+2025/05/19 20:10:27.425305 (filter-metrics) cpu: 0.364885 memory: 0.069876
+2025/05/19 20:10:27.524628 (metrics) cpu: 0.000000 memory: 0.069397
+2025/05/19 20:10:27.524769 (filter-metrics) cpu: 0.291908 memory: 0.069780
+2025/05/19 20:10:27.625348 (metrics) cpu: 0.025000 memory: 0.069397
+2025/05/19 20:10:27.625467 (filter-metrics) cpu: 0.238526 memory: 0.069704
+2025/05/19 20:10:27.725320 (metrics) cpu: 0.024390 memory: 0.069397
+2025/05/19 20:10:27.725432 (filter-metrics) cpu: 0.195699 memory: 0.069642
+2025/05/19 20:10:27.824883 (metrics) cpu: 0.025000 memory: 0.069397
+2025/05/19 20:10:27.825065 (filter-metrics) cpu: 0.161559 memory: 0.069593
+2025/05/19 20:10:27.924600 (metrics) cpu: 0.000000 memory: 0.069158
+2025/05/19 20:10:27.924755 (filter-metrics) cpu: 0.129247 memory: 0.069506
+2025/05/19 20:10:28.025327 (metrics) cpu: 0.275000 memory: 0.069158
+2025/05/19 20:10:28.025462 (filter-metrics) cpu: 0.142365 memory: 0.069484
+2025/05/19 20:10:28.124762 (metrics) cpu: 0.025000 memory: 0.069158
+2025/05/19 20:10:28.124851 (filter-metrics) cpu: 0.135030 memory: 0.069464
+2025/05/19 20:10:28.160708 (capacity) podCount = 5.000000
+2025/05/19 20:10:28.160783 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:28.160804 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:28.199808 (container) TaskExit: detected task exit: 2025-05-19T20:10:28.193514994Z
+2025/05/19 20:10:28.199941 (cache) received an event: {containerID:dc9589de287d05993b8f51ae6aee5046ab9239f69d440a8ea9431cba8470c5b3 podID:edd6df76-599c-4161-94f5-794de8678ce5 topic:2}
+2025/05/19 20:10:28.224108 (metrics) cpu: 0.684211 memory: 0.068783
+2025/05/19 20:10:28.224205 (filter-metrics) cpu: 0.184456 memory: 0.069421
+2025/05/19 20:10:28.231974 (container) TaskExit: detected task exit: 2025-05-19T20:10:28.221313482Z
+2025/05/19 20:10:28.232028 (cache) received an event: {containerID:b2286e0b2d8288c32a52534febbedf731ebcd333f0b34d6ad0b5642e678f44d6 podID:92be8162-0ac4-499e-a589-701a508f60a7 topic:2}
+2025/05/19 20:10:28.233197 (container) TaskExit: detected task exit: 2025-05-19T20:10:28.22190368Z
+2025/05/19 20:10:28.233214 (cache) received an event: {containerID:9542ede5fd4f71b0cb36228c4a79aea40dc896f0a6339a400e43a25d56c05a1d podID:d490604d-7440-4c27-b790-990dd19159bb topic:2}
+2025/05/19 20:10:28.239009 (container) TaskExit: detected task exit: 2025-05-19T20:10:28.234871053Z
+2025/05/19 20:10:28.239055 (cache) received an event: {containerID:94a6d05926dfd53dbd652018e0631635893c6b0dc53316b9891aa1305f455c71 podID:b2c12b9e-5608-48fc-9811-7585932eab03 topic:2}
+2025/05/19 20:10:28.241557 (container) TaskExit: detected task exit: 2025-05-19T20:10:28.237752196Z
+2025/05/19 20:10:28.241588 (cache) received an event: {containerID:8494c7bfb8e19d990c7f0d2c6c34f0099461de0c5759b6dc48046e98a11a4821 podID:e6e0986d-4edb-41bf-b5ca-875d9f7bace1 topic:2}
+2025/05/19 20:10:28.325824 (metrics) cpu: 0.950000 memory: 0.069550
+2025/05/19 20:10:28.325899 (filter-metrics) cpu: 0.253355 memory: 0.069433
+2025/05/19 20:10:28.365405 (container) TaskDelete: detected task delete: 2025-05-19T20:10:28.352483316Z
+2025/05/19 20:10:28.365506 (cache) received an event: {containerID:9542ede5fd4f71b0cb36228c4a79aea40dc896f0a6339a400e43a25d56c05a1d podID:d490604d-7440-4c27-b790-990dd19159bb topic:3}
+2025/05/19 20:10:28.365585 (oversat) not enough samples, SESt: 0.8514
+2025/05/19 20:10:28.367805 (container) TaskDelete: detected task delete: 2025-05-19T20:10:28.35277092Z
+2025/05/19 20:10:28.367821 (cache) received an event: {containerID:dc9589de287d05993b8f51ae6aee5046ab9239f69d440a8ea9431cba8470c5b3 podID:edd6df76-599c-4161-94f5-794de8678ce5 topic:3}
+2025/05/19 20:10:28.367842 (oversat) not enough samples, SESt: 1.7036
+2025/05/19 20:10:28.370746 (container) TaskDelete: detected task delete: 2025-05-19T20:10:28.352118755Z
+2025/05/19 20:10:28.370795 (cache) received an event: {containerID:94a6d05926dfd53dbd652018e0631635893c6b0dc53316b9891aa1305f455c71 podID:b2c12b9e-5608-48fc-9811-7585932eab03 topic:3}
+2025/05/19 20:10:28.370853 (oversat) not enough samples, SESt: 2.5622
+2025/05/19 20:10:28.375880 (container) TaskDelete: detected task delete: 2025-05-19T20:10:28.354275017Z
+2025/05/19 20:10:28.375986 (cache) received an event: {containerID:b2286e0b2d8288c32a52534febbedf731ebcd333f0b34d6ad0b5642e678f44d6 podID:92be8162-0ac4-499e-a589-701a508f60a7 topic:3}
+2025/05/19 20:10:28.376027 (oversat) not enough samples, SESt: 3.4149
+2025/05/19 20:10:28.380380 (container) TaskDelete: detected task delete: 2025-05-19T20:10:28.355267295Z
+2025/05/19 20:10:28.380425 (cache) received an event: {containerID:8494c7bfb8e19d990c7f0d2c6c34f0099461de0c5759b6dc48046e98a11a4821 podID:e6e0986d-4edb-41bf-b5ca-875d9f7bace1 topic:3}
+2025/05/19 20:10:28.380442 (oversat) not enough samples, SESt: 4.2709
+2025/05/19 20:10:28.424840 (metrics) cpu: 0.837838 memory: 0.065764
+2025/05/19 20:10:28.424975 (filter-metrics) cpu: 0.305958 memory: 0.069204
+2025/05/19 20:10:28.524801 (metrics) cpu: 0.894737 memory: 0.065748
+2025/05/19 20:10:28.524881 (filter-metrics) cpu: 0.358949 memory: 0.068988
+2025/05/19 20:10:28.624783 (metrics) cpu: 0.743590 memory: 0.065762
+2025/05/19 20:10:28.624921 (filter-metrics) cpu: 0.393566 memory: 0.068786
+2025/05/19 20:10:28.681085 (cache) running signal and cost generation
+2025/05/19 20:10:28.681274 (capacity) podCount = 0.000000
+2025/05/19 20:10:28.681449 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:28.681463 (cache) signal = +Inf
+2025/05/19 20:10:28.681474 (cache) per-pod cost = NaN
+2025/05/19 20:10:28.681511 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:28.725589 (metrics) cpu: 0.054054 memory: 0.063956
+2025/05/19 20:10:28.725676 (filter-metrics) cpu: 0.372347 memory: 0.068484
+2025/05/19 20:10:28.824597 (metrics) cpu: 0.000000 memory: 0.063996
+2025/05/19 20:10:28.824690 (filter-metrics) cpu: 0.349075 memory: 0.067586
+2025/05/19 20:10:28.924396 (metrics) cpu: 0.024390 memory: 0.063996
+2025/05/19 20:10:28.924473 (filter-metrics) cpu: 0.284138 memory: 0.066868
+2025/05/19 20:10:29.024156 (metrics) cpu: 0.000000 memory: 0.063996
+2025/05/19 20:10:29.024202 (filter-metrics) cpu: 0.227310 memory: 0.066294
+2025/05/19 20:10:29.125228 (metrics) cpu: 0.000000 memory: 0.063996
+2025/05/19 20:10:29.125301 (filter-metrics) cpu: 0.181848 memory: 0.065834
+2025/05/19 20:10:29.160328 (capacity) podCount = 0.000000
+2025/05/19 20:10:29.160406 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:29.160457 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:29.225229 (metrics) cpu: 0.500000 memory: 0.064025
+2025/05/19 20:10:29.225326 (filter-metrics) cpu: 0.210482 memory: 0.065721
+2025/05/19 20:10:29.325334 (metrics) cpu: 0.025641 memory: 0.064030
+2025/05/19 20:10:29.325412 (filter-metrics) cpu: 0.198929 memory: 0.065615
+2025/05/19 20:10:29.425172 (metrics) cpu: 0.000000 memory: 0.064030
+2025/05/19 20:10:29.425248 (filter-metrics) cpu: 0.186496 memory: 0.065298
+2025/05/19 20:10:29.524912 (metrics) cpu: 0.025000 memory: 0.064030
+2025/05/19 20:10:29.525037 (filter-metrics) cpu: 0.154197 memory: 0.065045
+2025/05/19 20:10:29.624754 (metrics) cpu: 0.000000 memory: 0.064061
+2025/05/19 20:10:29.624820 (filter-metrics) cpu: 0.123358 memory: 0.064848
+2025/05/19 20:10:29.724764 (metrics) cpu: 0.047619 memory: 0.064061
+2025/05/19 20:10:29.724856 (filter-metrics) cpu: 0.108210 memory: 0.064691
+2025/05/19 20:10:29.824591 (metrics) cpu: 0.000000 memory: 0.064062
+2025/05/19 20:10:29.824656 (filter-metrics) cpu: 0.086568 memory: 0.064565
+2025/05/19 20:10:29.924534 (metrics) cpu: 0.000000 memory: 0.064062
+2025/05/19 20:10:29.924609 (filter-metrics) cpu: 0.069254 memory: 0.064464
+2025/05/19 20:10:30.024234 (metrics) cpu: 0.000000 memory: 0.064091
+2025/05/19 20:10:30.024368 (filter-metrics) cpu: 0.055403 memory: 0.064389
+2025/05/19 20:10:30.124132 (metrics) cpu: 0.025000 memory: 0.064091
+2025/05/19 20:10:30.124200 (filter-metrics) cpu: 0.049323 memory: 0.064330
+2025/05/19 20:10:30.160486 (capacity) podCount = 0.000000
+2025/05/19 20:10:30.160612 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:30.160641 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:30.224609 (metrics) cpu: 0.051282 memory: 0.064091
+2025/05/19 20:10:30.224679 (filter-metrics) cpu: 0.049499 memory: 0.064315
+2025/05/19 20:10:30.324049 (metrics) cpu: 0.179487 memory: 0.064242
+2025/05/19 20:10:30.324120 (filter-metrics) cpu: 0.061198 memory: 0.064310
+2025/05/19 20:10:30.425142 (metrics) cpu: 0.024390 memory: 0.064242
+2025/05/19 20:10:30.425215 (filter-metrics) cpu: 0.058898 memory: 0.064306
+2025/05/19 20:10:30.525217 (metrics) cpu: 0.000000 memory: 0.064242
+2025/05/19 20:10:30.525269 (filter-metrics) cpu: 0.055216 memory: 0.064293
+2025/05/19 20:10:30.625344 (metrics) cpu: 0.026316 memory: 0.064242
+2025/05/19 20:10:30.625458 (filter-metrics) cpu: 0.049436 memory: 0.064283
+2025/05/19 20:10:30.725357 (metrics) cpu: 0.025000 memory: 0.064242
+2025/05/19 20:10:30.725428 (filter-metrics) cpu: 0.044549 memory: 0.064275
+2025/05/19 20:10:30.825727 (metrics) cpu: 0.025000 memory: 0.064242
+2025/05/19 20:10:30.825849 (filter-metrics) cpu: 0.040639 memory: 0.064268
+2025/05/19 20:10:30.924928 (metrics) cpu: 0.025641 memory: 0.064242
+2025/05/19 20:10:30.925096 (filter-metrics) cpu: 0.037640 memory: 0.064263
+2025/05/19 20:10:31.024868 (metrics) cpu: 0.000000 memory: 0.064242
+2025/05/19 20:10:31.025051 (filter-metrics) cpu: 0.030112 memory: 0.064259
+2025/05/19 20:10:31.125148 (metrics) cpu: 0.100000 memory: 0.064242
+2025/05/19 20:10:31.125281 (filter-metrics) cpu: 0.036402 memory: 0.064257
+2025/05/19 20:10:31.160703 (capacity) podCount = 0.000000
+2025/05/19 20:10:31.160824 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:31.160852 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:31.224907 (metrics) cpu: 0.051282 memory: 0.064242
+2025/05/19 20:10:31.225027 (filter-metrics) cpu: 0.037741 memory: 0.064256
+2025/05/19 20:10:31.325207 (metrics) cpu: 0.000000 memory: 0.064242
+2025/05/19 20:10:31.325263 (filter-metrics) cpu: 0.035382 memory: 0.064256
+2025/05/19 20:10:31.424751 (metrics) cpu: 0.000000 memory: 0.064242
+2025/05/19 20:10:31.424904 (filter-metrics) cpu: 0.033171 memory: 0.064253
+2025/05/19 20:10:31.524770 (metrics) cpu: 0.000000 memory: 0.064242
+2025/05/19 20:10:31.524842 (filter-metrics) cpu: 0.026537 memory: 0.064251
+2025/05/19 20:10:31.625583 (metrics) cpu: 0.024390 memory: 0.064242
+2025/05/19 20:10:31.626081 (filter-metrics) cpu: 0.026107 memory: 0.064249
+2025/05/19 20:10:31.724799 (metrics) cpu: 0.000000 memory: 0.064242
+2025/05/19 20:10:31.725132 (filter-metrics) cpu: 0.020886 memory: 0.064247
+2025/05/19 20:10:31.824825 (metrics) cpu: 0.025000 memory: 0.064242
+2025/05/19 20:10:31.825036 (filter-metrics) cpu: 0.021256 memory: 0.064247
+2025/05/19 20:10:31.926326 (metrics) cpu: 0.157895 memory: 0.063267
+2025/05/19 20:10:31.926435 (filter-metrics) cpu: 0.033554 memory: 0.064186
+2025/05/19 20:10:32.025153 (metrics) cpu: 0.102564 memory: 0.063267
+2025/05/19 20:10:32.025272 (filter-metrics) cpu: 0.039765 memory: 0.064128
+2025/05/19 20:10:32.124851 (metrics) cpu: 0.000000 memory: 0.063267
+2025/05/19 20:10:32.124934 (filter-metrics) cpu: 0.037279 memory: 0.064074
+2025/05/19 20:10:32.160859 (capacity) podCount = 0.000000
+2025/05/19 20:10:32.161280 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:32.161306 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:32.224284 (metrics) cpu: 0.205128 memory: 0.063298
+2025/05/19 20:10:32.224354 (filter-metrics) cpu: 0.052386 memory: 0.064026
+2025/05/19 20:10:32.325417 (metrics) cpu: 0.179487 memory: 0.063298
+2025/05/19 20:10:32.325548 (filter-metrics) cpu: 0.063825 memory: 0.063980
+2025/05/19 20:10:32.424854 (metrics) cpu: 0.025000 memory: 0.063298
+2025/05/19 20:10:32.425074 (filter-metrics) cpu: 0.061398 memory: 0.063938
+2025/05/19 20:10:32.525398 (metrics) cpu: 0.000000 memory: 0.063298
+2025/05/19 20:10:32.525505 (filter-metrics) cpu: 0.057561 memory: 0.063810
+2025/05/19 20:10:32.625050 (metrics) cpu: 0.050000 memory: 0.063298
+2025/05/19 20:10:32.625125 (filter-metrics) cpu: 0.056049 memory: 0.063707
+2025/05/19 20:10:32.725307 (metrics) cpu: 0.000000 memory: 0.063298
+2025/05/19 20:10:32.725431 (filter-metrics) cpu: 0.044839 memory: 0.063625
+2025/05/19 20:10:32.825634 (metrics) cpu: 0.025641 memory: 0.063309
+2025/05/19 20:10:32.825756 (filter-metrics) cpu: 0.040999 memory: 0.063562
+2025/05/19 20:10:32.924614 (metrics) cpu: 0.025000 memory: 0.063309
+2025/05/19 20:10:32.924698 (filter-metrics) cpu: 0.037799 memory: 0.063511
+2025/05/19 20:10:33.024408 (metrics) cpu: 0.000000 memory: 0.063309
+2025/05/19 20:10:33.024528 (filter-metrics) cpu: 0.030240 memory: 0.063471
+2025/05/19 20:10:33.124522 (metrics) cpu: 0.024390 memory: 0.063309
+2025/05/19 20:10:33.124623 (filter-metrics) cpu: 0.029070 memory: 0.063438
+2025/05/19 20:10:33.160984 (capacity) podCount = 0.000000
+2025/05/19 20:10:33.161079 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:33.161111 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:33.224215 (metrics) cpu: 0.076923 memory: 0.063309
+2025/05/19 20:10:33.224259 (filter-metrics) cpu: 0.033377 memory: 0.063430
+2025/05/19 20:10:33.325445 (metrics) cpu: 0.425000 memory: 0.063339
+2025/05/19 20:10:33.325558 (filter-metrics) cpu: 0.068623 memory: 0.063425
+2025/05/19 20:10:33.424683 (metrics) cpu: 0.025641 memory: 0.063215
+2025/05/19 20:10:33.424819 (filter-metrics) cpu: 0.065936 memory: 0.063412
+2025/05/19 20:10:33.524607 (metrics) cpu: 0.025641 memory: 0.063215
+2025/05/19 20:10:33.524743 (filter-metrics) cpu: 0.063418 memory: 0.063372
+2025/05/19 20:10:33.625359 (metrics) cpu: 0.025000 memory: 0.063215
+2025/05/19 20:10:33.625464 (filter-metrics) cpu: 0.055734 memory: 0.063341
+2025/05/19 20:10:33.725085 (metrics) cpu: 0.051282 memory: 0.063243
+2025/05/19 20:10:33.725183 (filter-metrics) cpu: 0.054844 memory: 0.063321
+2025/05/19 20:10:33.824877 (metrics) cpu: 0.050000 memory: 0.063243
+2025/05/19 20:10:33.825354 (filter-metrics) cpu: 0.053875 memory: 0.063305
+2025/05/19 20:10:33.925153 (metrics) cpu: 0.025641 memory: 0.063243
+2025/05/19 20:10:33.925252 (filter-metrics) cpu: 0.048228 memory: 0.063293
+2025/05/19 20:10:34.025262 (metrics) cpu: 0.024390 memory: 0.063243
+2025/05/19 20:10:34.025376 (filter-metrics) cpu: 0.043461 memory: 0.063283
+2025/05/19 20:10:34.124824 (metrics) cpu: 0.052632 memory: 0.063242
+2025/05/19 20:10:34.125060 (filter-metrics) cpu: 0.044286 memory: 0.063280
+2025/05/19 20:10:34.160473 (capacity) podCount = 0.000000
+2025/05/19 20:10:34.160601 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:34.160644 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:34.224866 (metrics) cpu: 0.073171 memory: 0.063242
+2025/05/19 20:10:34.225041 (filter-metrics) cpu: 0.046886 memory: 0.063278
+2025/05/19 20:10:34.324814 (metrics) cpu: 0.025641 memory: 0.063242
+2025/05/19 20:10:34.324913 (filter-metrics) cpu: 0.045558 memory: 0.063276
+2025/05/19 20:10:34.424669 (metrics) cpu: 0.000000 memory: 0.063242
+2025/05/19 20:10:34.424811 (filter-metrics) cpu: 0.042710 memory: 0.063269
+2025/05/19 20:10:34.524647 (metrics) cpu: 0.025000 memory: 0.063242
+2025/05/19 20:10:34.524769 (filter-metrics) cpu: 0.039168 memory: 0.063264
+2025/05/19 20:10:34.625485 (metrics) cpu: 0.050000 memory: 0.063242
+2025/05/19 20:10:34.625623 (filter-metrics) cpu: 0.040143 memory: 0.063262
+2025/05/19 20:10:34.725376 (metrics) cpu: 0.000000 memory: 0.063242
+2025/05/19 20:10:34.725528 (filter-metrics) cpu: 0.037634 memory: 0.063261
+2025/05/19 20:10:34.825444 (metrics) cpu: 0.025000 memory: 0.063242
+2025/05/19 20:10:34.825597 (filter-metrics) cpu: 0.036845 memory: 0.063257
+2025/05/19 20:10:34.925196 (metrics) cpu: 0.024390 memory: 0.063242
+2025/05/19 20:10:34.925297 (filter-metrics) cpu: 0.034354 memory: 0.063254
+2025/05/19 20:10:35.024926 (metrics) cpu: 0.000000 memory: 0.063242
+2025/05/19 20:10:35.025089 (filter-metrics) cpu: 0.027483 memory: 0.063252
+2025/05/19 20:10:35.124727 (metrics) cpu: 0.048780 memory: 0.063242
+2025/05/19 20:10:35.124834 (filter-metrics) cpu: 0.029400 memory: 0.063251
+2025/05/19 20:10:35.160635 (capacity) podCount = 0.000000
+2025/05/19 20:10:35.160758 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:35.160792 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:35.224757 (metrics) cpu: 0.000000 memory: 0.063242
+2025/05/19 20:10:35.224880 (filter-metrics) cpu: 0.027562 memory: 0.063251
+2025/05/19 20:10:35.325357 (metrics) cpu: 0.128205 memory: 0.063242
+2025/05/19 20:10:35.325481 (filter-metrics) cpu: 0.036620 memory: 0.063250
+2025/05/19 20:10:35.425259 (metrics) cpu: 0.051282 memory: 0.063242
+2025/05/19 20:10:35.425415 (filter-metrics) cpu: 0.037940 memory: 0.063250
+2025/05/19 20:10:35.525596 (metrics) cpu: 0.048780 memory: 0.063242
+2025/05/19 20:10:35.525725 (filter-metrics) cpu: 0.038915 memory: 0.063249
+2025/05/19 20:10:35.625399 (metrics) cpu: 0.025000 memory: 0.063242
+2025/05/19 20:10:35.625541 (filter-metrics) cpu: 0.038046 memory: 0.063249
+2025/05/19 20:10:35.724773 (metrics) cpu: 0.025641 memory: 0.063242
+2025/05/19 20:10:35.724897 (filter-metrics) cpu: 0.037270 memory: 0.063247
+2025/05/19 20:10:35.825587 (metrics) cpu: 0.000000 memory: 0.063242
+2025/05/19 20:10:35.825703 (filter-metrics) cpu: 0.029816 memory: 0.063246
+2025/05/19 20:10:35.925678 (metrics) cpu: 0.000000 memory: 0.063242
+2025/05/19 20:10:35.925787 (filter-metrics) cpu: 0.023853 memory: 0.063245
+2025/05/19 20:10:36.025082 (metrics) cpu: 0.025000 memory: 0.063242
+2025/05/19 20:10:36.025199 (filter-metrics) cpu: 0.023956 memory: 0.063245
+2025/05/19 20:10:36.125010 (metrics) cpu: 0.076923 memory: 0.063242
+2025/05/19 20:10:36.125125 (filter-metrics) cpu: 0.028723 memory: 0.063245
+2025/05/19 20:10:36.160109 (capacity) podCount = 0.000000
+2025/05/19 20:10:36.160206 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:36.160238 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:36.225211 (metrics) cpu: 0.025641 memory: 0.063242
+2025/05/19 20:10:36.225289 (filter-metrics) cpu: 0.028531 memory: 0.063245
+2025/05/19 20:10:36.325037 (metrics) cpu: 0.025641 memory: 0.063242
+2025/05/19 20:10:36.325195 (filter-metrics) cpu: 0.028350 memory: 0.063244
+2025/05/19 20:10:36.425318 (metrics) cpu: 0.000000 memory: 0.063242
+2025/05/19 20:10:36.425401 (filter-metrics) cpu: 0.022680 memory: 0.063244
+2025/05/19 20:10:36.525196 (metrics) cpu: 0.071429 memory: 0.063242
+2025/05/19 20:10:36.525312 (filter-metrics) cpu: 0.027067 memory: 0.063243
+2025/05/19 20:10:36.625447 (metrics) cpu: 0.025641 memory: 0.063242
+2025/05/19 20:10:36.625559 (filter-metrics) cpu: 0.026978 memory: 0.063243
+2025/05/19 20:10:36.724591 (metrics) cpu: 0.000000 memory: 0.063242
+2025/05/19 20:10:36.724723 (filter-metrics) cpu: 0.025292 memory: 0.063243
+2025/05/19 20:10:36.825475 (metrics) cpu: 0.000000 memory: 0.063242
+2025/05/19 20:10:36.825611 (filter-metrics) cpu: 0.020234 memory: 0.063243
+2025/05/19 20:10:36.924787 (metrics) cpu: 0.025000 memory: 0.063242
+2025/05/19 20:10:36.924897 (filter-metrics) cpu: 0.020663 memory: 0.063243
+2025/05/19 20:10:37.025287 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:37.025386 (filter-metrics) cpu: 0.019371 memory: 0.063243
+2025/05/19 20:10:37.125094 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:37.125191 (filter-metrics) cpu: 0.018161 memory: 0.063242
+2025/05/19 20:10:37.160208 (capacity) podCount = 0.000000
+2025/05/19 20:10:37.160277 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:37.160300 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:37.224548 (metrics) cpu: 0.025000 memory: 0.063241
+2025/05/19 20:10:37.224606 (filter-metrics) cpu: 0.018776 memory: 0.063242
+2025/05/19 20:10:37.324544 (metrics) cpu: 0.025641 memory: 0.063241
+2025/05/19 20:10:37.324666 (filter-metrics) cpu: 0.019394 memory: 0.063242
+2025/05/19 20:10:37.424308 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:37.424384 (filter-metrics) cpu: 0.018182 memory: 0.063242
+2025/05/19 20:10:37.525465 (metrics) cpu: 0.047619 memory: 0.063241
+2025/05/19 20:10:37.525593 (filter-metrics) cpu: 0.020831 memory: 0.063242
+2025/05/19 20:10:37.624679 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:37.624819 (filter-metrics) cpu: 0.019529 memory: 0.063242
+2025/05/19 20:10:37.725301 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:37.725463 (filter-metrics) cpu: 0.018309 memory: 0.063242
+2025/05/19 20:10:37.825620 (metrics) cpu: 0.047619 memory: 0.063241
+2025/05/19 20:10:37.825734 (filter-metrics) cpu: 0.020947 memory: 0.063242
+2025/05/19 20:10:37.924652 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:37.924817 (filter-metrics) cpu: 0.019637 memory: 0.063242
+2025/05/19 20:10:38.024825 (metrics) cpu: 0.050000 memory: 0.063241
+2025/05/19 20:10:38.025014 (filter-metrics) cpu: 0.022370 memory: 0.063242
+2025/05/19 20:10:38.124989 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:38.125069 (filter-metrics) cpu: 0.020972 memory: 0.063242
+2025/05/19 20:10:38.160328 (capacity) podCount = 0.000000
+2025/05/19 20:10:38.160473 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:38.160493 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:38.225269 (metrics) cpu: 0.025641 memory: 0.063241
+2025/05/19 20:10:38.225351 (filter-metrics) cpu: 0.021392 memory: 0.063242
+2025/05/19 20:10:38.325508 (metrics) cpu: 0.050000 memory: 0.063241
+2025/05/19 20:10:38.325609 (filter-metrics) cpu: 0.023967 memory: 0.063242
+2025/05/19 20:10:38.424778 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:38.424908 (filter-metrics) cpu: 0.022469 memory: 0.063242
+2025/05/19 20:10:38.525052 (metrics) cpu: 0.025000 memory: 0.063241
+2025/05/19 20:10:38.525196 (filter-metrics) cpu: 0.022697 memory: 0.063242
+2025/05/19 20:10:38.624384 (metrics) cpu: 0.073171 memory: 0.063241
+2025/05/19 20:10:38.624464 (filter-metrics) cpu: 0.027239 memory: 0.063242
+2025/05/19 20:10:38.725213 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:38.725380 (filter-metrics) cpu: 0.025537 memory: 0.063242
+2025/05/19 20:10:38.824930 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:38.825098 (filter-metrics) cpu: 0.023941 memory: 0.063241
+2025/05/19 20:10:38.924626 (metrics) cpu: 0.025000 memory: 0.063241
+2025/05/19 20:10:38.924786 (filter-metrics) cpu: 0.024036 memory: 0.063241
+2025/05/19 20:10:39.025380 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:39.025498 (filter-metrics) cpu: 0.022534 memory: 0.063241
+2025/05/19 20:10:39.125240 (metrics) cpu: 0.048780 memory: 0.063241
+2025/05/19 20:10:39.125345 (filter-metrics) cpu: 0.024896 memory: 0.063241
+2025/05/19 20:10:39.160825 (capacity) podCount = 0.000000
+2025/05/19 20:10:39.161059 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:39.161083 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:39.224819 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:39.224911 (filter-metrics) cpu: 0.023340 memory: 0.063241
+2025/05/19 20:10:39.324656 (metrics) cpu: 0.050000 memory: 0.063241
+2025/05/19 20:10:39.324788 (filter-metrics) cpu: 0.025739 memory: 0.063241
+2025/05/19 20:10:39.425599 (metrics) cpu: 0.048780 memory: 0.063241
+2025/05/19 20:10:39.425756 (filter-metrics) cpu: 0.027813 memory: 0.063241
+2025/05/19 20:10:39.525685 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:39.525832 (filter-metrics) cpu: 0.026075 memory: 0.063241
+2025/05/19 20:10:39.625610 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:39.625741 (filter-metrics) cpu: 0.024445 memory: 0.063241
+2025/05/19 20:10:39.725233 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:39.725347 (filter-metrics) cpu: 0.019556 memory: 0.063241
+2025/05/19 20:10:39.824757 (metrics) cpu: 0.025000 memory: 0.063241
+2025/05/19 20:10:39.824879 (filter-metrics) cpu: 0.020046 memory: 0.063241
+2025/05/19 20:10:39.925028 (metrics) cpu: 0.024390 memory: 0.063241
+2025/05/19 20:10:39.925120 (filter-metrics) cpu: 0.020437 memory: 0.063241
+2025/05/19 20:10:40.024731 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:40.024911 (filter-metrics) cpu: 0.019160 memory: 0.063241
+2025/05/19 20:10:40.125678 (metrics) cpu: 0.025000 memory: 0.063241
+2025/05/19 20:10:40.125844 (filter-metrics) cpu: 0.019685 memory: 0.063241
+2025/05/19 20:10:40.160535 (capacity) podCount = 0.000000
+2025/05/19 20:10:40.160677 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:40.160718 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:40.225176 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:40.225272 (filter-metrics) cpu: 0.018455 memory: 0.063241
+2025/05/19 20:10:40.325174 (metrics) cpu: 0.025641 memory: 0.063241
+2025/05/19 20:10:40.325298 (filter-metrics) cpu: 0.019102 memory: 0.063241
+2025/05/19 20:10:40.425347 (metrics) cpu: 0.175000 memory: 0.063241
+2025/05/19 20:10:40.425452 (filter-metrics) cpu: 0.033133 memory: 0.063241
+2025/05/19 20:10:40.524521 (metrics) cpu: 0.025000 memory: 0.063241
+2025/05/19 20:10:40.524685 (filter-metrics) cpu: 0.032624 memory: 0.063241
+2025/05/19 20:10:40.624505 (metrics) cpu: 0.051282 memory: 0.063241
+2025/05/19 20:10:40.624624 (filter-metrics) cpu: 0.034304 memory: 0.063241
+2025/05/19 20:10:40.724572 (metrics) cpu: 0.000000 memory: 0.063241
+2025/05/19 20:10:40.724715 (filter-metrics) cpu: 0.032160 memory: 0.063241
+2025/05/19 20:10:40.825293 (metrics) cpu: 0.048780 memory: 0.063240
+2025/05/19 20:10:40.825425 (filter-metrics) cpu: 0.033655 memory: 0.063241
+2025/05/19 20:10:40.924850 (metrics) cpu: 0.000000 memory: 0.063240
+2025/05/19 20:10:40.925037 (filter-metrics) cpu: 0.031552 memory: 0.063241
+2025/05/19 20:10:41.025246 (metrics) cpu: 0.025000 memory: 0.063240
+2025/05/19 20:10:41.025415 (filter-metrics) cpu: 0.031142 memory: 0.063241
+2025/05/19 20:10:41.125056 (metrics) cpu: 0.048780 memory: 0.063240
+2025/05/19 20:10:41.125531 (filter-metrics) cpu: 0.032730 memory: 0.063241
+2025/05/19 20:10:41.160585 (capacity) podCount = 0.000000
+2025/05/19 20:10:41.160714 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:41.160732 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:41.225107 (metrics) cpu: 0.105263 memory: 0.063240
+2025/05/19 20:10:41.225236 (filter-metrics) cpu: 0.039258 memory: 0.063241
+2025/05/19 20:10:41.325186 (metrics) cpu: 0.025641 memory: 0.063240
+2025/05/19 20:10:41.325266 (filter-metrics) cpu: 0.038407 memory: 0.063241
+2025/05/19 20:10:41.425689 (metrics) cpu: 0.025000 memory: 0.063240
+2025/05/19 20:10:41.425847 (filter-metrics) cpu: 0.037569 memory: 0.063240
+2025/05/19 20:10:41.525046 (metrics) cpu: 0.000000 memory: 0.063240
+2025/05/19 20:10:41.525172 (filter-metrics) cpu: 0.030055 memory: 0.063240
+2025/05/19 20:10:41.625102 (metrics) cpu: 0.024390 memory: 0.063240
+2025/05/19 20:10:41.625206 (filter-metrics) cpu: 0.028922 memory: 0.063240
+2025/05/19 20:10:41.725521 (metrics) cpu: 0.000000 memory: 0.063240
+2025/05/19 20:10:41.725661 (filter-metrics) cpu: 0.023138 memory: 0.063240
+2025/05/19 20:10:41.824668 (metrics) cpu: 0.000000 memory: 0.063240
+2025/05/19 20:10:41.824877 (filter-metrics) cpu: 0.018510 memory: 0.063240
+2025/05/19 20:10:41.924481 (metrics) cpu: 0.128205 memory: 0.063240
+2025/05/19 20:10:41.924575 (filter-metrics) cpu: 0.028383 memory: 0.063240
+2025/05/19 20:10:42.024727 (metrics) cpu: 0.051282 memory: 0.063240
+2025/05/19 20:10:42.024887 (filter-metrics) cpu: 0.030444 memory: 0.063240
+2025/05/19 20:10:42.125309 (metrics) cpu: 0.000000 memory: 0.063240
+2025/05/19 20:10:42.125434 (filter-metrics) cpu: 0.028541 memory: 0.063240
+2025/05/19 20:10:42.160517 (capacity) podCount = 0.000000
+2025/05/19 20:10:42.160627 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:42.160646 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:42.225049 (metrics) cpu: 0.050000 memory: 0.063240
+2025/05/19 20:10:42.225135 (filter-metrics) cpu: 0.030472 memory: 0.063240
+2025/05/19 20:10:42.325253 (metrics) cpu: 0.051282 memory: 0.063240
+2025/05/19 20:10:42.325372 (filter-metrics) cpu: 0.032345 memory: 0.063240
+2025/05/19 20:10:42.425500 (metrics) cpu: 0.025000 memory: 0.063240
+2025/05/19 20:10:42.425627 (filter-metrics) cpu: 0.031886 memory: 0.063240
+2025/05/19 20:10:42.525001 (metrics) cpu: 0.000000 memory: 0.063240
+2025/05/19 20:10:42.525331 (filter-metrics) cpu: 0.029893 memory: 0.063240
+2025/05/19 20:10:42.624819 (metrics) cpu: 0.051282 memory: 0.063240
+2025/05/19 20:10:42.625116 (filter-metrics) cpu: 0.031818 memory: 0.063240
+2025/05/19 20:10:42.725244 (metrics) cpu: 0.000000 memory: 0.063240
+2025/05/19 20:10:42.725358 (filter-metrics) cpu: 0.029830 memory: 0.063240
+2025/05/19 20:10:42.825707 (metrics) cpu: 0.025000 memory: 0.063240
+2025/05/19 20:10:42.825818 (filter-metrics) cpu: 0.029528 memory: 0.063240
+2025/05/19 20:10:42.924563 (metrics) cpu: 0.025000 memory: 0.063239
+2025/05/19 20:10:42.924718 (filter-metrics) cpu: 0.028622 memory: 0.063240
+2025/05/19 20:10:43.025588 (metrics) cpu: 0.000000 memory: 0.063239
+2025/05/19 20:10:43.025739 (filter-metrics) cpu: 0.022898 memory: 0.063240
+2025/05/19 20:10:43.125582 (metrics) cpu: 0.025641 memory: 0.063239
+2025/05/19 20:10:43.125700 (filter-metrics) cpu: 0.023145 memory: 0.063240
+2025/05/19 20:10:43.160795 (capacity) podCount = 0.000000
+2025/05/19 20:10:43.160907 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:43.160983 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:43.225360 (metrics) cpu: 0.025641 memory: 0.063239
+2025/05/19 20:10:43.225499 (filter-metrics) cpu: 0.023369 memory: 0.063240
+2025/05/19 20:10:43.325350 (metrics) cpu: 0.050000 memory: 0.063239
+2025/05/19 20:10:43.325507 (filter-metrics) cpu: 0.025766 memory: 0.063240
+2025/05/19 20:10:43.425306 (metrics) cpu: 0.000000 memory: 0.063239
+2025/05/19 20:10:43.425457 (filter-metrics) cpu: 0.024156 memory: 0.063240
+2025/05/19 20:10:43.524448 (metrics) cpu: 0.000000 memory: 0.063239
+2025/05/19 20:10:43.524600 (filter-metrics) cpu: 0.022646 memory: 0.063239
+2025/05/19 20:10:43.625028 (metrics) cpu: 0.024390 memory: 0.063239
+2025/05/19 20:10:43.625174 (filter-metrics) cpu: 0.022803 memory: 0.063239
+2025/05/19 20:10:43.726485 (metrics) cpu: 0.025000 memory: 0.063239
+2025/05/19 20:10:43.726600 (filter-metrics) cpu: 0.023001 memory: 0.063239
+2025/05/19 20:10:43.825241 (metrics) cpu: 0.075000 memory: 0.063239
+2025/05/19 20:10:43.825406 (filter-metrics) cpu: 0.027681 memory: 0.063239
+2025/05/19 20:10:43.925140 (metrics) cpu: 0.078947 memory: 0.063239
+2025/05/19 20:10:43.925258 (filter-metrics) cpu: 0.032295 memory: 0.063239
+2025/05/19 20:10:44.024715 (metrics) cpu: 0.000000 memory: 0.063239
+2025/05/19 20:10:44.024800 (filter-metrics) cpu: 0.030276 memory: 0.063239
+2025/05/19 20:10:44.125620 (metrics) cpu: 0.000000 memory: 0.063239
+2025/05/19 20:10:44.125736 (filter-metrics) cpu: 0.028384 memory: 0.063239
+2025/05/19 20:10:44.160225 (capacity) podCount = 0.000000
+2025/05/19 20:10:44.160675 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:44.160700 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:44.224529 (metrics) cpu: 0.025641 memory: 0.063239
+2025/05/19 20:10:44.224614 (filter-metrics) cpu: 0.027835 memory: 0.063239
+2025/05/19 20:10:44.325396 (metrics) cpu: 0.073171 memory: 0.063239
+2025/05/19 20:10:44.325533 (filter-metrics) cpu: 0.031916 memory: 0.063239
+2025/05/19 20:10:44.425322 (metrics) cpu: 0.000000 memory: 0.063239
+2025/05/19 20:10:44.425448 (filter-metrics) cpu: 0.029921 memory: 0.063239
+2025/05/19 20:10:44.525177 (metrics) cpu: 0.000000 memory: 0.063239
+2025/05/19 20:10:44.525330 (filter-metrics) cpu: 0.028051 memory: 0.063239
+2025/05/19 20:10:44.625016 (metrics) cpu: 0.075000 memory: 0.063239
+2025/05/19 20:10:44.625138 (filter-metrics) cpu: 0.032276 memory: 0.063239
+2025/05/19 20:10:44.724905 (metrics) cpu: 0.000000 memory: 0.063239
+2025/05/19 20:10:44.725148 (filter-metrics) cpu: 0.030259 memory: 0.063239
+2025/05/19 20:10:44.824779 (metrics) cpu: 0.000000 memory: 0.063239
+2025/05/19 20:10:44.824924 (filter-metrics) cpu: 0.028368 memory: 0.063239
+2025/05/19 20:10:44.924806 (metrics) cpu: 0.000000 memory: 0.063239
+2025/05/19 20:10:44.925044 (filter-metrics) cpu: 0.022694 memory: 0.063239
+2025/05/19 20:10:45.025910 (metrics) cpu: 0.024390 memory: 0.063239
+2025/05/19 20:10:45.026098 (filter-metrics) cpu: 0.022847 memory: 0.063239
+2025/05/19 20:10:45.124734 (metrics) cpu: 0.025641 memory: 0.063239
+2025/05/19 20:10:45.124896 (filter-metrics) cpu: 0.023098 memory: 0.063239
+2025/05/19 20:10:45.161065 (capacity) podCount = 0.000000
+2025/05/19 20:10:45.161188 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:45.161209 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:45.225374 (metrics) cpu: 0.025000 memory: 0.063239
+2025/05/19 20:10:45.225439 (filter-metrics) cpu: 0.023269 memory: 0.063239
+2025/05/19 20:10:45.324358 (metrics) cpu: 0.025641 memory: 0.063239
+2025/05/19 20:10:45.324451 (filter-metrics) cpu: 0.023483 memory: 0.063239
+2025/05/19 20:10:45.425342 (metrics) cpu: 0.102564 memory: 0.063239
+2025/05/19 20:10:45.425473 (filter-metrics) cpu: 0.030600 memory: 0.063239
+2025/05/19 20:10:45.525015 (metrics) cpu: 0.052632 memory: 0.063270
+2025/05/19 20:10:45.525147 (filter-metrics) cpu: 0.032583 memory: 0.063242
+2025/05/19 20:10:45.625206 (metrics) cpu: 0.000000 memory: 0.063269
+2025/05/19 20:10:45.625406 (filter-metrics) cpu: 0.030547 memory: 0.063244
+2025/05/19 20:10:45.725393 (metrics) cpu: 0.050000 memory: 0.063269
+2025/05/19 20:10:45.725533 (filter-metrics) cpu: 0.032297 memory: 0.063247
+2025/05/19 20:10:45.824695 (metrics) cpu: 0.000000 memory: 0.063269
+2025/05/19 20:10:45.824755 (filter-metrics) cpu: 0.030279 memory: 0.063249
+2025/05/19 20:10:45.925319 (metrics) cpu: 0.000000 memory: 0.063269
+2025/05/19 20:10:45.925433 (filter-metrics) cpu: 0.028386 memory: 0.063250
+2025/05/19 20:10:46.024528 (metrics) cpu: 0.048780 memory: 0.063269
+2025/05/19 20:10:46.024651 (filter-metrics) cpu: 0.030222 memory: 0.063252
+2025/05/19 20:10:46.125498 (metrics) cpu: 0.000000 memory: 0.063269
+2025/05/19 20:10:46.125639 (filter-metrics) cpu: 0.028333 memory: 0.063254
+2025/05/19 20:10:46.159973 (capacity) podCount = 0.000000
+2025/05/19 20:10:46.160105 (capacity) capacity: NaN | cost: NaN
+2025/05/19 20:10:46.160116 (publish) data: &message.Signal{state:impl.MessageState{NoUnkeyedLiterals:pragma.NoUnkeyedLiterals{}, DoNotCompare:pragma.DoNotCompare{}, DoNotCopy:pragma.DoNotCopy{}, atomicMessageInfo:(*impl.MessageInfo)(nil)}, Node:"dev-k8s-lc869-01", Signal:+Inf, Capacity:NaN, Overprovision:0, unknownFields:[]uint8(nil), sizeCache:0}
+2025/05/19 20:10:46.225491 (metrics) cpu: 0.100000 memory: 0.063269
+2025/05/19 20:10:46.225634 (filter-metrics) cpu: 0.034783 memory: 0.063255
+2025/05/19 20:10:46.325259 (metrics) cpu: 0.025000 memory: 0.063269
+2025/05/19 20:10:46.325366 (filter-metrics) cpu: 0.034172 memory: 0.063256
+2025/05/19 20:10:46.425247 (metrics) cpu: 0.026316 memory: 0.063269
+2025/05/19 20:10:46.425328 (filter-metrics) cpu: 0.033681 memory: 0.063258
