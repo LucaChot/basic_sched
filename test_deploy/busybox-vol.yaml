@@ -1,0 +1,25 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: busybox-vol
+spec:
+  hostPID: true
+  containers:
+  - name: busybox
+    image: busybox
+    command: [ "sleep", "3600" ]  # Keeps the container running for an hour
+    resources:
+      limits:
+        cpu: "100m"
+        memory: "128Mi"
+    volumeMounts:
+    - name: host-proc
+      mountPath: /host/proc
+      #securityContext:
+        #privileged: true  # Often needed to allow hostPath mounts of sensitive directories
+  volumes:
+  - name: host-proc
+    hostPath:
+      path: /proc
+      type: Directory
+
